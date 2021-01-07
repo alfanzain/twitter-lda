@@ -18,7 +18,7 @@ class StreamListener(tweepy.StreamListener):
             # Count inserted tweet and store to variable
             self.count += 1
 
-    def update(status):
+    def update(self, status):
 
         tweet = Tweet()
         return tweet.update(status)
@@ -26,22 +26,25 @@ class StreamListener(tweepy.StreamListener):
     # When API get a status while streaming
     def on_status(self, status):
 
-        # Insert new tweet IF has 'retweeted_status'
-        if hasattr(status, 'retweeted_status'):
-            print("{} is retweeting {}.".format(status.id_str, status.retweeted_status.id_str))
+        if status.lang == 'en':
+            # Insert new tweet IF has 'retweeted_status'
+            if hasattr(status, 'retweeted_status'):
+                print("{} is retweeting {}.".format(status.id_str, status.retweeted_status.id_str))
 
-            tweet = Tweet()
-            # Check if retweeted_status already exist
-            if tweet.is_tweet_exist(status.retweeted_status.id_str) != 0:
-                print("{} found!".format(status.retweeted_status.id_str))
-                self.update(status.retweeted_status)
-            else:
-                print("{} not found.".format(status.retweeted_status.id_str))
-                self.create(status.retweeted_status)
+                tweet = Tweet()
+                # Check if retweeted_status already exist
+                if tweet.is_tweet_exist(status.retweeted_status.id_str) != 0:
+                    print("{} found!".format(status.retweeted_status.id_str))
+                    self.update(status.retweeted_status)
+                else:
+                    print("{} not found.".format(status.retweeted_status.id_str))
+                    self.create(status.retweeted_status)
 
-        self.create(status)
+            self.create(status)
 
-        print('Total {} status(es) inserted.\n'.format(self.count))
+            print('Total {} status(es) inserted.\n'.format(self.count))
+        else:
+            print('Not an English tweet. Skipped.\n') # TODO : need count of skipped tweet? maybe?
 
     def on_error(self, status_code):
         # print status_code if it is 420
@@ -61,7 +64,14 @@ def setup():
 
 def start():
     my_stream = tweepy.Stream(auth=setup().auth, listener=StreamListener(), tweet_mode='extended')
-    my_stream.filter(track=['#game', '-#porn'])
+    my_stream.filter(
+        track=[
+            # '#game', '-#porn'
+            # '#game', '#StardewValley', '#Stardew', 'game', 'StardewValley'
+            '-#porn', 'game', 'esport', 'Dota 2', 'DPC', 'Dota Pro Circuit', '#DPC', '#Dota2'
+        ],
+        is_async=True
+    )
 
 
 if __name__ == "__main__":
