@@ -1,0 +1,1994 @@
+(1054, "Unknown column 'text' in 'field list'"),
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 05 08:06:32 +0000 2021",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    108,
+                    114
+                ],
+                "text": "games"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1346367463676641281",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/aU9WGy82sj"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    3,
+                    16
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            },
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    21,
+                    34
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            },
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    39,
+                    52
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            },
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    57,
+                    70
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            },
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    75,
+                    88
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            },
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    93,
+                    106
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            }
+        ]
+    },
+    "extended_tweet": {
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        108,
+                        114
+                    ],
+                    "text": "games"
+                },
+                {
+                    "indices": [
+                        115,
+                        126
+                    ],
+                    "text": "videogames"
+                },
+                {
+                    "indices": [
+                        127,
+                        142
+                    ],
+                    "text": "nintendoswitch"
+                },
+                {
+                    "indices": [
+                        143,
+                        152
+                    ],
+                    "text": "nintendo"
+                },
+                {
+                    "indices": [
+                        153,
+                        159
+                    ],
+                    "text": "gamer"
+                },
+                {
+                    "indices": [
+                        160,
+                        170
+                    ],
+                    "text": "gamergirl"
+                },
+                {
+                    "indices": [
+                        171,
+                        176
+                    ],
+                    "text": "game"
+                },
+                {
+                    "indices": [
+                        177,
+                        184
+                    ],
+                    "text": "gamers"
+                },
+                {
+                    "indices": [
+                        185,
+                        195
+                    ],
+                    "text": "videogame"
+                },
+                {
+                    "indices": [
+                        196,
+                        203
+                    ],
+                    "text": "gaming"
+                },
+                {
+                    "indices": [
+                        204,
+                        220
+                    ],
+                    "text": "gamingcommunity"
+                },
+                {
+                    "indices": [
+                        221,
+                        233
+                    ],
+                    "text": "gamingmemes"
+                },
+                {
+                    "indices": [
+                        234,
+                        245
+                    ],
+                    "text": "gaminglife"
+                },
+                {
+                    "indices": [
+                        246,
+                        252
+                    ],
+                    "text": "zelda"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "amzn.to/30EqvBl",
+                    "expanded_url": "https://amzn.to/30EqvBl",
+                    "indices": [
+                        256,
+                        279
+                    ],
+                    "url": "https://t.co/PvmhIHMM3q"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 1308699423443099649,
+                    "id_str": "1308699423443099649",
+                    "indices": [
+                        3,
+                        16
+                    ],
+                    "name": "Tickly0",
+                    "screen_name": "GrapesIsFood"
+                },
+                {
+                    "id": 1308699423443099649,
+                    "id_str": "1308699423443099649",
+                    "indices": [
+                        21,
+                        34
+                    ],
+                    "name": "Tickly0",
+                    "screen_name": "GrapesIsFood"
+                },
+                {
+                    "id": 1308699423443099649,
+                    "id_str": "1308699423443099649",
+                    "indices": [
+                        39,
+                        52
+                    ],
+                    "name": "Tickly0",
+                    "screen_name": "GrapesIsFood"
+                },
+                {
+                    "id": 1308699423443099649,
+                    "id_str": "1308699423443099649",
+                    "indices": [
+                        57,
+                        70
+                    ],
+                    "name": "Tickly0",
+                    "screen_name": "GrapesIsFood"
+                },
+                {
+                    "id": 1308699423443099649,
+                    "id_str": "1308699423443099649",
+                    "indices": [
+                        75,
+                        88
+                    ],
+                    "name": "Tickly0",
+                    "screen_name": "GrapesIsFood"
+                },
+                {
+                    "id": 1308699423443099649,
+                    "id_str": "1308699423443099649",
+                    "indices": [
+                        93,
+                        106
+                    ],
+                    "name": "Tickly0",
+                    "screen_name": "GrapesIsFood"
+                }
+            ]
+        },
+        "full_text": "RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: #games #videogames #nintendoswitch #nintendo #gamer #gamergirl #game #gamers #videogame #gaming #gamingcommunity #gamingmemes #gaminglife #zelda #\u2026 https://t.co/PvmhIHMM3q"
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1346367463676641281,
+    "id_str": "1346367463676641281",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "text": "RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: #games\u2026 https://t.co/aU9WGy82sj",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 23 09:27:27 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I follow back 100%",
+        "favourites_count": 140,
+        "follow_request_sent": null,
+        "followers_count": 217,
+        "following": null,
+        "friends_count": 1798,
+        "geo_enabled": false,
+        "id": 1308699423443099649,
+        "id_str": "1308699423443099649",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": null,
+        "name": "Tickly0",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1308699423443099649/1601679401",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1312164428029124609/tswJ7u6s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1312164428029124609/tswJ7u6s_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GrapesIsFood",
+        "statuses_count": 2444,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
+
+(1054, "Unknown column 'text' in 'field list'"),
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jan 07 10:20:49 +0000 2021",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    126,
+                    132
+                ],
+                "text": "games"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    3,
+                    16
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            },
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    21,
+                    34
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            },
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    39,
+                    52
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            },
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    57,
+                    70
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            },
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    75,
+                    88
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            },
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    93,
+                    106
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            },
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    111,
+                    124
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1347126032940232704,
+    "id_str": "1347126032940232704",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Jan 05 08:06:32 +0000 2021",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        108,
+                        114
+                    ],
+                    "text": "games"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1346367463676641281",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "url": "https://t.co/aU9WGy82sj"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 1308699423443099649,
+                    "id_str": "1308699423443099649",
+                    "indices": [
+                        3,
+                        16
+                    ],
+                    "name": "Tickly0",
+                    "screen_name": "GrapesIsFood"
+                },
+                {
+                    "id": 1308699423443099649,
+                    "id_str": "1308699423443099649",
+                    "indices": [
+                        21,
+                        34
+                    ],
+                    "name": "Tickly0",
+                    "screen_name": "GrapesIsFood"
+                },
+                {
+                    "id": 1308699423443099649,
+                    "id_str": "1308699423443099649",
+                    "indices": [
+                        39,
+                        52
+                    ],
+                    "name": "Tickly0",
+                    "screen_name": "GrapesIsFood"
+                },
+                {
+                    "id": 1308699423443099649,
+                    "id_str": "1308699423443099649",
+                    "indices": [
+                        57,
+                        70
+                    ],
+                    "name": "Tickly0",
+                    "screen_name": "GrapesIsFood"
+                },
+                {
+                    "id": 1308699423443099649,
+                    "id_str": "1308699423443099649",
+                    "indices": [
+                        75,
+                        88
+                    ],
+                    "name": "Tickly0",
+                    "screen_name": "GrapesIsFood"
+                },
+                {
+                    "id": 1308699423443099649,
+                    "id_str": "1308699423443099649",
+                    "indices": [
+                        93,
+                        106
+                    ],
+                    "name": "Tickly0",
+                    "screen_name": "GrapesIsFood"
+                }
+            ]
+        },
+        "extended_tweet": {
+            "display_text_range": [
+                0,
+                279
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            108,
+                            114
+                        ],
+                        "text": "games"
+                    },
+                    {
+                        "indices": [
+                            115,
+                            126
+                        ],
+                        "text": "videogames"
+                    },
+                    {
+                        "indices": [
+                            127,
+                            142
+                        ],
+                        "text": "nintendoswitch"
+                    },
+                    {
+                        "indices": [
+                            143,
+                            152
+                        ],
+                        "text": "nintendo"
+                    },
+                    {
+                        "indices": [
+                            153,
+                            159
+                        ],
+                        "text": "gamer"
+                    },
+                    {
+                        "indices": [
+                            160,
+                            170
+                        ],
+                        "text": "gamergirl"
+                    },
+                    {
+                        "indices": [
+                            171,
+                            176
+                        ],
+                        "text": "game"
+                    },
+                    {
+                        "indices": [
+                            177,
+                            184
+                        ],
+                        "text": "gamers"
+                    },
+                    {
+                        "indices": [
+                            185,
+                            195
+                        ],
+                        "text": "videogame"
+                    },
+                    {
+                        "indices": [
+                            196,
+                            203
+                        ],
+                        "text": "gaming"
+                    },
+                    {
+                        "indices": [
+                            204,
+                            220
+                        ],
+                        "text": "gamingcommunity"
+                    },
+                    {
+                        "indices": [
+                            221,
+                            233
+                        ],
+                        "text": "gamingmemes"
+                    },
+                    {
+                        "indices": [
+                            234,
+                            245
+                        ],
+                        "text": "gaminglife"
+                    },
+                    {
+                        "indices": [
+                            246,
+                            252
+                        ],
+                        "text": "zelda"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "amzn.to/30EqvBl",
+                        "expanded_url": "https://amzn.to/30EqvBl",
+                        "indices": [
+                            256,
+                            279
+                        ],
+                        "url": "https://t.co/PvmhIHMM3q"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 1308699423443099649,
+                        "id_str": "1308699423443099649",
+                        "indices": [
+                            3,
+                            16
+                        ],
+                        "name": "Tickly0",
+                        "screen_name": "GrapesIsFood"
+                    },
+                    {
+                        "id": 1308699423443099649,
+                        "id_str": "1308699423443099649",
+                        "indices": [
+                            21,
+                            34
+                        ],
+                        "name": "Tickly0",
+                        "screen_name": "GrapesIsFood"
+                    },
+                    {
+                        "id": 1308699423443099649,
+                        "id_str": "1308699423443099649",
+                        "indices": [
+                            39,
+                            52
+                        ],
+                        "name": "Tickly0",
+                        "screen_name": "GrapesIsFood"
+                    },
+                    {
+                        "id": 1308699423443099649,
+                        "id_str": "1308699423443099649",
+                        "indices": [
+                            57,
+                            70
+                        ],
+                        "name": "Tickly0",
+                        "screen_name": "GrapesIsFood"
+                    },
+                    {
+                        "id": 1308699423443099649,
+                        "id_str": "1308699423443099649",
+                        "indices": [
+                            75,
+                            88
+                        ],
+                        "name": "Tickly0",
+                        "screen_name": "GrapesIsFood"
+                    },
+                    {
+                        "id": 1308699423443099649,
+                        "id_str": "1308699423443099649",
+                        "indices": [
+                            93,
+                            106
+                        ],
+                        "name": "Tickly0",
+                        "screen_name": "GrapesIsFood"
+                    }
+                ]
+            },
+            "full_text": "RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: #games #videogames #nintendoswitch #nintendo #gamer #gamergirl #game #gamers #videogame #gaming #gamingcommunity #gamingmemes #gaminglife #zelda #\u2026 https://t.co/PvmhIHMM3q"
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 1346367463676641281,
+        "id_str": "1346367463676641281",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "und",
+        "place": null,
+        "possibly_sensitive": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "text": "RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: #games\u2026 https://t.co/aU9WGy82sj",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Sep 23 09:27:27 +0000 2020",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "I follow back 100%",
+            "favourites_count": 140,
+            "follow_request_sent": null,
+            "followers_count": 217,
+            "following": null,
+            "friends_count": 1798,
+            "geo_enabled": false,
+            "id": 1308699423443099649,
+            "id_str": "1308699423443099649",
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 1,
+            "location": null,
+            "name": "Tickly0",
+            "notifications": null,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1308699423443099649/1601679401",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1312164428029124609/tswJ7u6s_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1312164428029124609/tswJ7u6s_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "GrapesIsFood",
+            "statuses_count": 2444,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: #games #video\u2026",
+    "timestamp_ms": "1610014849301",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 23 09:27:27 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I follow back 100%",
+        "favourites_count": 140,
+        "follow_request_sent": null,
+        "followers_count": 217,
+        "following": null,
+        "friends_count": 1798,
+        "geo_enabled": false,
+        "id": 1308699423443099649,
+        "id_str": "1308699423443099649",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": null,
+        "name": "Tickly0",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1308699423443099649/1601679401",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1312164428029124609/tswJ7u6s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1312164428029124609/tswJ7u6s_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GrapesIsFood",
+        "statuses_count": 2445,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
+
+(1054, "Unknown column 'text' in 'field list'"),
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jan 07 10:21:10 +0000 2021",
+    "display_text_range": [
+        0,
+        140
+    ],
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    67,
+                    77
+                ],
+                "text": "warcraft3"
+            },
+            {
+                "indices": [
+                    78,
+                    83
+                ],
+                "text": "war3"
+            },
+            {
+                "indices": [
+                    84,
+                    93
+                ],
+                "text": "warcraft"
+            },
+            {
+                "indices": [
+                    94,
+                    107
+                ],
+                "text": "frozenthrone"
+            },
+            {
+                "indices": [
+                    108,
+                    114
+                ],
+                "text": "tak3r"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitch.tv/towertak3r",
+                "expanded_url": "https://twitch.tv/towertak3r",
+                "indices": [
+                    40,
+                    63
+                ],
+                "url": "https://t.co/f5TISd0iXW"
+            },
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1347126120622268416",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/xosv8fS1TG"
+            }
+        ],
+        "user_mentions": []
+    },
+    "extended_tweet": {
+        "display_text_range": [
+            0,
+            217
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        67,
+                        77
+                    ],
+                    "text": "warcraft3"
+                },
+                {
+                    "indices": [
+                        78,
+                        83
+                    ],
+                    "text": "war3"
+                },
+                {
+                    "indices": [
+                        84,
+                        93
+                    ],
+                    "text": "warcraft"
+                },
+                {
+                    "indices": [
+                        94,
+                        107
+                    ],
+                    "text": "frozenthrone"
+                },
+                {
+                    "indices": [
+                        108,
+                        114
+                    ],
+                    "text": "tak3r"
+                },
+                {
+                    "indices": [
+                        115,
+                        124
+                    ],
+                    "text": "reforged"
+                },
+                {
+                    "indices": [
+                        125,
+                        142
+                    ],
+                    "text": "warcraftreforged"
+                },
+                {
+                    "indices": [
+                        144,
+                        151
+                    ],
+                    "text": "gaming"
+                },
+                {
+                    "indices": [
+                        152,
+                        157
+                    ],
+                    "text": "game"
+                },
+                {
+                    "indices": [
+                        158,
+                        165
+                    ],
+                    "text": "esport"
+                },
+                {
+                    "indices": [
+                        166,
+                        176
+                    ],
+                    "text": "progaming"
+                },
+                {
+                    "indices": [
+                        177,
+                        184
+                    ],
+                    "text": "twitch"
+                },
+                {
+                    "indices": [
+                        185,
+                        201
+                    ],
+                    "text": "TwitchStreamers"
+                },
+                {
+                    "indices": [
+                        202,
+                        217
+                    ],
+                    "text": "twitchstreamer"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/oysJOFBjxr",
+                    "expanded_url": "https://twitter.com/towertak3r/status/1347126120622268416/photo/1",
+                    "id": 1347126091165691906,
+                    "id_str": "1347126091165691906",
+                    "indices": [
+                        218,
+                        241
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ErH0CuOXcAI_3vY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ErH0CuOXcAI_3vY.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1149,
+                            "resize": "fit",
+                            "w": 1920
+                        },
+                        "medium": {
+                            "h": 718,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 407,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/oysJOFBjxr"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitch.tv/towertak3r",
+                    "expanded_url": "https://twitch.tv/towertak3r",
+                    "indices": [
+                        40,
+                        63
+                    ],
+                    "url": "https://t.co/f5TISd0iXW"
+                }
+            ],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/oysJOFBjxr",
+                    "expanded_url": "https://twitter.com/towertak3r/status/1347126120622268416/photo/1",
+                    "id": 1347126091165691906,
+                    "id_str": "1347126091165691906",
+                    "indices": [
+                        218,
+                        241
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ErH0CuOXcAI_3vY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ErH0CuOXcAI_3vY.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1149,
+                            "resize": "fit",
+                            "w": 1920
+                        },
+                        "medium": {
+                            "h": 718,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 407,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/oysJOFBjxr"
+                }
+            ]
+        },
+        "full_text": "Going LIVE with some Warcraft action at https://t.co/f5TISd0iXW // #warcraft3 #war3 #warcraft #frozenthrone #tak3r #reforged #warcraftreforged  #gaming #game #esport #progaming #twitch #TwitchStreamers #twitchstreamer https://t.co/oysJOFBjxr"
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1347126120622268416,
+    "id_str": "1347126120622268416",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Going LIVE with some Warcraft action at https://t.co/f5TISd0iXW // #warcraft3 #war3 #warcraft #frozenthrone #tak3r\u2026 https://t.co/xosv8fS1TG",
+    "timestamp_ms": "1610014870206",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 07 23:42:19 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "ex WarCraft III pro player streaming for fun on Twitch after 13 years of inactivity! :) Check my schedule at http://www.twitch.tv/towertak3r",
+        "favourites_count": 196,
+        "follow_request_sent": null,
+        "followers_count": 3070,
+        "following": null,
+        "friends_count": 52,
+        "geo_enabled": false,
+        "id": 1082422209342251008,
+        "id_str": "1082422209342251008",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "London, England",
+        "name": "towertak3r",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082422209342251008/1585445130",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1244077362741993473/Jwnx_aOx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244077362741993473/Jwnx_aOx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "towertak3r",
+        "statuses_count": 440,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://www.chrisontour84.de/",
+        "utc_offset": null,
+        "verified": false
+    }
+}
+
+(1054, "Unknown column 'text' in 'field list'"),
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 05 08:06:29 +0000 2021",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    108,
+                    114
+                ],
+                "text": "games"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1346367451357962241",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/i0GkwWcBJr"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    3,
+                    16
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            },
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    21,
+                    34
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            },
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    39,
+                    52
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            },
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    57,
+                    70
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            },
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    75,
+                    88
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            },
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    93,
+                    106
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            }
+        ]
+    },
+    "extended_tweet": {
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        108,
+                        114
+                    ],
+                    "text": "games"
+                },
+                {
+                    "indices": [
+                        115,
+                        126
+                    ],
+                    "text": "videogames"
+                },
+                {
+                    "indices": [
+                        127,
+                        142
+                    ],
+                    "text": "nintendoswitch"
+                },
+                {
+                    "indices": [
+                        143,
+                        152
+                    ],
+                    "text": "nintendo"
+                },
+                {
+                    "indices": [
+                        153,
+                        159
+                    ],
+                    "text": "gamer"
+                },
+                {
+                    "indices": [
+                        160,
+                        170
+                    ],
+                    "text": "gamergirl"
+                },
+                {
+                    "indices": [
+                        171,
+                        176
+                    ],
+                    "text": "game"
+                },
+                {
+                    "indices": [
+                        177,
+                        184
+                    ],
+                    "text": "gamers"
+                },
+                {
+                    "indices": [
+                        185,
+                        195
+                    ],
+                    "text": "videogame"
+                },
+                {
+                    "indices": [
+                        196,
+                        203
+                    ],
+                    "text": "gaming"
+                },
+                {
+                    "indices": [
+                        204,
+                        220
+                    ],
+                    "text": "gamingcommunity"
+                },
+                {
+                    "indices": [
+                        221,
+                        233
+                    ],
+                    "text": "gamingmemes"
+                },
+                {
+                    "indices": [
+                        234,
+                        245
+                    ],
+                    "text": "gaminglife"
+                },
+                {
+                    "indices": [
+                        246,
+                        252
+                    ],
+                    "text": "zelda"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "amzn.to/33HcjcN",
+                    "expanded_url": "https://amzn.to/33HcjcN",
+                    "indices": [
+                        256,
+                        279
+                    ],
+                    "url": "https://t.co/d2PAsfuMvs"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 1308699423443099649,
+                    "id_str": "1308699423443099649",
+                    "indices": [
+                        3,
+                        16
+                    ],
+                    "name": "Tickly0",
+                    "screen_name": "GrapesIsFood"
+                },
+                {
+                    "id": 1308699423443099649,
+                    "id_str": "1308699423443099649",
+                    "indices": [
+                        21,
+                        34
+                    ],
+                    "name": "Tickly0",
+                    "screen_name": "GrapesIsFood"
+                },
+                {
+                    "id": 1308699423443099649,
+                    "id_str": "1308699423443099649",
+                    "indices": [
+                        39,
+                        52
+                    ],
+                    "name": "Tickly0",
+                    "screen_name": "GrapesIsFood"
+                },
+                {
+                    "id": 1308699423443099649,
+                    "id_str": "1308699423443099649",
+                    "indices": [
+                        57,
+                        70
+                    ],
+                    "name": "Tickly0",
+                    "screen_name": "GrapesIsFood"
+                },
+                {
+                    "id": 1308699423443099649,
+                    "id_str": "1308699423443099649",
+                    "indices": [
+                        75,
+                        88
+                    ],
+                    "name": "Tickly0",
+                    "screen_name": "GrapesIsFood"
+                },
+                {
+                    "id": 1308699423443099649,
+                    "id_str": "1308699423443099649",
+                    "indices": [
+                        93,
+                        106
+                    ],
+                    "name": "Tickly0",
+                    "screen_name": "GrapesIsFood"
+                }
+            ]
+        },
+        "full_text": "RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: #games #videogames #nintendoswitch #nintendo #gamer #gamergirl #game #gamers #videogame #gaming #gamingcommunity #gamingmemes #gaminglife #zelda #\u2026 https://t.co/d2PAsfuMvs"
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1346367451357962241,
+    "id_str": "1346367451357962241",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1,
+    "retweeted": false,
+    "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "text": "RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: #games\u2026 https://t.co/i0GkwWcBJr",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 23 09:27:27 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I follow back 100%",
+        "favourites_count": 140,
+        "follow_request_sent": null,
+        "followers_count": 217,
+        "following": null,
+        "friends_count": 1798,
+        "geo_enabled": false,
+        "id": 1308699423443099649,
+        "id_str": "1308699423443099649",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": null,
+        "name": "Tickly0",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1308699423443099649/1601679401",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1312164428029124609/tswJ7u6s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1312164428029124609/tswJ7u6s_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GrapesIsFood",
+        "statuses_count": 2446,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
+
+(1054, "Unknown column 'text' in 'field list'"),
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jan 07 10:21:17 +0000 2021",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    126,
+                    132
+                ],
+                "text": "games"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    3,
+                    16
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            },
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    21,
+                    34
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            },
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    39,
+                    52
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            },
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    57,
+                    70
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            },
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    75,
+                    88
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            },
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    93,
+                    106
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            },
+            {
+                "id": 1308699423443099649,
+                "id_str": "1308699423443099649",
+                "indices": [
+                    111,
+                    124
+                ],
+                "name": "Tickly0",
+                "screen_name": "GrapesIsFood"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1347126150254841857,
+    "id_str": "1347126150254841857",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Tue Jan 05 08:06:29 +0000 2021",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        108,
+                        114
+                    ],
+                    "text": "games"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1346367451357962241",
+                    "indices": [
+                        116,
+                        139
+                    ],
+                    "url": "https://t.co/i0GkwWcBJr"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 1308699423443099649,
+                    "id_str": "1308699423443099649",
+                    "indices": [
+                        3,
+                        16
+                    ],
+                    "name": "Tickly0",
+                    "screen_name": "GrapesIsFood"
+                },
+                {
+                    "id": 1308699423443099649,
+                    "id_str": "1308699423443099649",
+                    "indices": [
+                        21,
+                        34
+                    ],
+                    "name": "Tickly0",
+                    "screen_name": "GrapesIsFood"
+                },
+                {
+                    "id": 1308699423443099649,
+                    "id_str": "1308699423443099649",
+                    "indices": [
+                        39,
+                        52
+                    ],
+                    "name": "Tickly0",
+                    "screen_name": "GrapesIsFood"
+                },
+                {
+                    "id": 1308699423443099649,
+                    "id_str": "1308699423443099649",
+                    "indices": [
+                        57,
+                        70
+                    ],
+                    "name": "Tickly0",
+                    "screen_name": "GrapesIsFood"
+                },
+                {
+                    "id": 1308699423443099649,
+                    "id_str": "1308699423443099649",
+                    "indices": [
+                        75,
+                        88
+                    ],
+                    "name": "Tickly0",
+                    "screen_name": "GrapesIsFood"
+                },
+                {
+                    "id": 1308699423443099649,
+                    "id_str": "1308699423443099649",
+                    "indices": [
+                        93,
+                        106
+                    ],
+                    "name": "Tickly0",
+                    "screen_name": "GrapesIsFood"
+                }
+            ]
+        },
+        "extended_tweet": {
+            "display_text_range": [
+                0,
+                279
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            108,
+                            114
+                        ],
+                        "text": "games"
+                    },
+                    {
+                        "indices": [
+                            115,
+                            126
+                        ],
+                        "text": "videogames"
+                    },
+                    {
+                        "indices": [
+                            127,
+                            142
+                        ],
+                        "text": "nintendoswitch"
+                    },
+                    {
+                        "indices": [
+                            143,
+                            152
+                        ],
+                        "text": "nintendo"
+                    },
+                    {
+                        "indices": [
+                            153,
+                            159
+                        ],
+                        "text": "gamer"
+                    },
+                    {
+                        "indices": [
+                            160,
+                            170
+                        ],
+                        "text": "gamergirl"
+                    },
+                    {
+                        "indices": [
+                            171,
+                            176
+                        ],
+                        "text": "game"
+                    },
+                    {
+                        "indices": [
+                            177,
+                            184
+                        ],
+                        "text": "gamers"
+                    },
+                    {
+                        "indices": [
+                            185,
+                            195
+                        ],
+                        "text": "videogame"
+                    },
+                    {
+                        "indices": [
+                            196,
+                            203
+                        ],
+                        "text": "gaming"
+                    },
+                    {
+                        "indices": [
+                            204,
+                            220
+                        ],
+                        "text": "gamingcommunity"
+                    },
+                    {
+                        "indices": [
+                            221,
+                            233
+                        ],
+                        "text": "gamingmemes"
+                    },
+                    {
+                        "indices": [
+                            234,
+                            245
+                        ],
+                        "text": "gaminglife"
+                    },
+                    {
+                        "indices": [
+                            246,
+                            252
+                        ],
+                        "text": "zelda"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "amzn.to/33HcjcN",
+                        "expanded_url": "https://amzn.to/33HcjcN",
+                        "indices": [
+                            256,
+                            279
+                        ],
+                        "url": "https://t.co/d2PAsfuMvs"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 1308699423443099649,
+                        "id_str": "1308699423443099649",
+                        "indices": [
+                            3,
+                            16
+                        ],
+                        "name": "Tickly0",
+                        "screen_name": "GrapesIsFood"
+                    },
+                    {
+                        "id": 1308699423443099649,
+                        "id_str": "1308699423443099649",
+                        "indices": [
+                            21,
+                            34
+                        ],
+                        "name": "Tickly0",
+                        "screen_name": "GrapesIsFood"
+                    },
+                    {
+                        "id": 1308699423443099649,
+                        "id_str": "1308699423443099649",
+                        "indices": [
+                            39,
+                            52
+                        ],
+                        "name": "Tickly0",
+                        "screen_name": "GrapesIsFood"
+                    },
+                    {
+                        "id": 1308699423443099649,
+                        "id_str": "1308699423443099649",
+                        "indices": [
+                            57,
+                            70
+                        ],
+                        "name": "Tickly0",
+                        "screen_name": "GrapesIsFood"
+                    },
+                    {
+                        "id": 1308699423443099649,
+                        "id_str": "1308699423443099649",
+                        "indices": [
+                            75,
+                            88
+                        ],
+                        "name": "Tickly0",
+                        "screen_name": "GrapesIsFood"
+                    },
+                    {
+                        "id": 1308699423443099649,
+                        "id_str": "1308699423443099649",
+                        "indices": [
+                            93,
+                            106
+                        ],
+                        "name": "Tickly0",
+                        "screen_name": "GrapesIsFood"
+                    }
+                ]
+            },
+            "full_text": "RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: #games #videogames #nintendoswitch #nintendo #gamer #gamergirl #game #gamers #videogame #gaming #gamingcommunity #gamingmemes #gaminglife #zelda #\u2026 https://t.co/d2PAsfuMvs"
+        },
+        "favorite_count": 1,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 1346367451357962241,
+        "id_str": "1346367451357962241",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "und",
+        "place": null,
+        "possibly_sensitive": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+        "text": "RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: #games\u2026 https://t.co/i0GkwWcBJr",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Sep 23 09:27:27 +0000 2020",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "I follow back 100%",
+            "favourites_count": 140,
+            "follow_request_sent": null,
+            "followers_count": 217,
+            "following": null,
+            "friends_count": 1798,
+            "geo_enabled": false,
+            "id": 1308699423443099649,
+            "id_str": "1308699423443099649",
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 1,
+            "location": null,
+            "name": "Tickly0",
+            "notifications": null,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1308699423443099649/1601679401",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1312164428029124609/tswJ7u6s_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1312164428029124609/tswJ7u6s_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "GrapesIsFood",
+            "statuses_count": 2446,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: RT @GrapesIsFood: #games #video\u2026",
+    "timestamp_ms": "1610014877271",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 23 09:27:27 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I follow back 100%",
+        "favourites_count": 140,
+        "follow_request_sent": null,
+        "followers_count": 217,
+        "following": null,
+        "friends_count": 1798,
+        "geo_enabled": false,
+        "id": 1308699423443099649,
+        "id_str": "1308699423443099649",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": null,
+        "name": "Tickly0",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1308699423443099649/1601679401",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1312164428029124609/tswJ7u6s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1312164428029124609/tswJ7u6s_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GrapesIsFood",
+        "statuses_count": 2447,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
+
