@@ -1,7 +1,7 @@
 from configs.const import *
 from models.Tweet import *
 import tweepy
-
+from time import sleep
 
 class StreamListener(tweepy.StreamListener):
 
@@ -42,9 +42,11 @@ class StreamListener(tweepy.StreamListener):
 
             self.create(status)
 
-            print('Total {} status(es) inserted.\n'.format(self.count))
+            print('Total {} tweet(s) inserted.\n'.format(self.count))
         else:
             print('Not an English tweet. Skipped.\n') # TODO : need count of skipped tweet? maybe?
+
+        sleep(2)
 
     def on_error(self, status_code):
         # print status_code if it is 420
@@ -63,14 +65,14 @@ def setup():
 
 
 def start():
-    my_stream = tweepy.Stream(auth=setup().auth, listener=StreamListener(), tweet_mode='extended')
+    my_stream = tweepy.Stream(auth=setup().auth, listener=StreamListener(), tweet_mode='extended', snooze_time=5000.0)
     my_stream.filter(
         track=[
             # '#game', '-#porn'
             # '#game', '#StardewValley', '#Stardew', 'game', 'StardewValley'
             '-#porn', 'game', 'esport', 'Dota 2', 'DPC', 'Dota Pro Circuit', '#DPC', '#Dota2'
         ],
-        is_async=True
+        # is_async=True
     )
 
 
