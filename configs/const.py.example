@@ -1,0 +1,25 @@
+# config/config.py
+
+import os
+basedir = os.path.abspath(os.path.dirname(__file__))
+
+from datetime import date
+
+
+# Twitter credentials
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
+
+ACCESS_TOKEN = ''
+ACCESS_TOKEN_SECRET = ''
+
+# Database configuration
+DB_HOST = "localhost"
+DB_USER = "root"
+DB_PASSWD = ""
+DB_DB = ""
+DB_CHARSET = "utf8"
+
+# App configuration
+EXPERIMENT_PATH = 'experiments/'
+EXPERIMENT_FOLDER = date.today().strftime("%Y_%m_%d/")
