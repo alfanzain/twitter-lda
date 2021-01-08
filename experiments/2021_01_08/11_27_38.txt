@@ -1,0 +1,99 @@
+not all arguments converted during string formatting,
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 08 04:27:27 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1347399492572770304",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/xQZr2qAFBd"
+            }
+        ],
+        "user_mentions": []
+    },
+    "extended_tweet": {
+        "display_text_range": [
+            0,
+            203
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "full_text": "Go hard needs a nerf ASAP, but what happens with Grand Plaza after the nerf? Do they nerf them together? Made it to Plat 4 while I was watching TV. You literally DO NOT have to pay attention to the game."
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1347399492572770304,
+    "id_str": "1347399492572770304",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "text": "Go hard needs a nerf ASAP, but what happens with Grand Plaza after the nerf? Do they nerf them together? Made it to\u2026 https://t.co/xQZr2qAFBd",
+    "timestamp_ms": "1610080047158",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 13 17:47:20 +0000 2015",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Twitch Streamer for RBG esports. Legends of Runeterra addict.",
+        "favourites_count": 8274,
+        "follow_request_sent": null,
+        "followers_count": 348,
+        "following": null,
+        "friends_count": 132,
+        "geo_enabled": false,
+        "id": 3091429078,
+        "id_str": "3091429078",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 10,
+        "location": null,
+        "name": "Peech4",
+        "notifications": null,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3091429078/1574951156",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1311413988769566722/xMExscMk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1311413988769566722/xMExscMk_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Peech4_",
+        "statuses_count": 5717,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://twitch.tv/peech4",
+        "utc_offset": null,
+        "verified": false
+    }
+}
+

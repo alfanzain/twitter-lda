@@ -1,0 +1,109 @@
+not all arguments converted during string formatting,
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 08 04:32:10 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1347400679724179459",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/hO0bpINsh9"
+            }
+        ],
+        "user_mentions": []
+    },
+    "extended_tweet": {
+        "display_text_range": [
+            0,
+            146
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "beacon.nist.gov/beacon/2.0/cha\u2026",
+                    "expanded_url": "https://beacon.nist.gov/beacon/2.0/chain/1/pulse/1195999",
+                    "indices": [
+                        123,
+                        146
+                    ],
+                    "url": "https://t.co/XJM71Dx8uB"
+                }
+            ],
+            "user_mentions": []
+        },
+        "full_text": "2021-01-08 04:32:10 +0000 : Game 'Daily Lottery #179813' preparing to finish.  Need text.\nVerification data:\nNist Source : https://t.co/XJM71Dx8uB"
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1347400679724179459,
+    "id_str": "1347400679724179459",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://demo.lotusguild.com\" rel=\"nofollow\">Lotus Guild</a>",
+    "text": "2021-01-08 04:32:10 +0000 : Game 'Daily Lottery #179813' preparing to finish.  Need text.\nVerification data:\nNist S\u2026 https://t.co/hO0bpINsh9",
+    "timestamp_ms": "1610080330197",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 24 18:18:30 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": null,
+        "favourites_count": 0,
+        "follow_request_sent": null,
+        "followers_count": 2,
+        "following": null,
+        "friends_count": 0,
+        "geo_enabled": false,
+        "id": 1131987854983401472,
+        "id_str": "1131987854983401472",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": null,
+        "name": "lotustest",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lotustest2",
+        "statuses_count": 604476,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
+

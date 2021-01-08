@@ -1,0 +1,275 @@
+(1136, "Column count doesn't match value count at row 1"),
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 08 04:12:09 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1347395644676141056,
+    "id_str": "1347395644676141056",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "quote_count": 0,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jan 08 04:03:09 +0000 2021",
+        "display_text_range": [
+            0,
+            67
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/5zi8Zi0Ws9",
+                    "expanded_url": "https://twitter.com/Giannis_An34/status/1347393379735375881/photo/1",
+                    "id": 1347393369664860161,
+                    "id_str": "1347393369664860161",
+                    "indices": [
+                        68,
+                        91
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ErLnIYOXMAEN7-z.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ErLnIYOXMAEN7-z.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1439,
+                            "resize": "fit",
+                            "w": 1439
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/5zi8Zi0Ws9"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/5zi8Zi0Ws9",
+                    "expanded_url": "https://twitter.com/Giannis_An34/status/1347393379735375881/photo/1",
+                    "id": 1347393369664860161,
+                    "id_str": "1347393369664860161",
+                    "indices": [
+                        68,
+                        91
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ErLnIYOXMAEN7-z.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ErLnIYOXMAEN7-z.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1439,
+                            "resize": "fit",
+                            "w": 1439
+                        },
+                        "medium": {
+                            "h": 1200,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/5zi8Zi0Ws9"
+                },
+                {
+                    "display_url": "pic.twitter.com/5zi8Zi0Ws9",
+                    "expanded_url": "https://twitter.com/Giannis_An34/status/1347393379735375881/photo/1",
+                    "id": 1347393369669038082,
+                    "id_str": "1347393369669038082",
+                    "indices": [
+                        68,
+                        91
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ErLnIYPW8AI-CEU.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ErLnIYPW8AI-CEU.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 1156,
+                            "resize": "fit",
+                            "w": 1156
+                        },
+                        "medium": {
+                            "h": 1156,
+                            "resize": "fit",
+                            "w": 1156
+                        },
+                        "small": {
+                            "h": 680,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/5zi8Zi0Ws9"
+                }
+            ]
+        },
+        "favorite_count": 1664,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 1347393379735375881,
+        "id_str": "1347393379735375881",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quote_count": 22,
+        "reply_count": 67,
+        "retweet_count": 87,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "When you\u2019re at practice and realize you have another game tomorrow. https://t.co/5zi8Zi0Ws9",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jan 07 00:29:14 +0000 2014",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "\"It's beauty in the struggle, ugliness in the success.\" \ud83c\uddf3\ud83c\uddecx\ud83c\uddec\ud83c\uddf7 Family-Loyalty-Legacy For business requests \ud83d\udce7: giannisbusinness.34@gmail.com",
+            "favourites_count": 2685,
+            "follow_request_sent": null,
+            "followers_count": 1433593,
+            "following": null,
+            "friends_count": 6,
+            "geo_enabled": true,
+            "id": 2279776304,
+            "id_str": "2279776304",
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 2530,
+            "location": "Milwaukee WI",
+            "name": "Giannis Ugo Antetokounmpo",
+            "notifications": null,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2279776304/1444686532",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1224193692933808130/ob8r0cv__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224193692933808130/ob8r0cv__normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Giannis_An34",
+            "statuses_count": 1421,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    "quoted_status_id": 1347393379735375881,
+    "quoted_status_id_str": "1347393379735375881",
+    "quoted_status_permalink": {
+        "display": "twitter.com/giannis_an34/s\u2026",
+        "expanded": "https://twitter.com/giannis_an34/status/1347393379735375881",
+        "url": "https://t.co/kzE8ds6RC5"
+    },
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Wholesome meme",
+    "timestamp_ms": "1610079129748",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 06 02:52:34 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ESPN Features. I love UConn and all things Connecticut. Sometimes you gotta work a little to ball a lot. Orlando Arcia and Devin Williams fan.",
+        "favourites_count": 65562,
+        "follow_request_sent": null,
+        "followers_count": 1495,
+        "following": null,
+        "friends_count": 1352,
+        "geo_enabled": true,
+        "id": 187392116,
+        "id_str": "187392116",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 11,
+        "location": "Storrs, CT",
+        "name": "Daniela Marulanda",
+        "notifications": null,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/187392116/1603227971",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1345517335344340992/0Nee_JAj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345517335344340992/0Nee_JAj_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "dani_phantom10",
+        "statuses_count": 66845,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://vimeo.com/danielamarulanda",
+        "utc_offset": null,
+        "verified": false
+    }
+}
+

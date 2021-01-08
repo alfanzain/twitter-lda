@@ -1,0 +1,125 @@
+not all arguments converted during string formatting,
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 08 04:27:28 +0000 2021",
+    "display_text_range": [
+        17,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1347399496548888578",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/A7x2EFucNb"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 991744823345532928,
+                "id_str": "991744823345532928",
+                "indices": [
+                    0,
+                    16
+                ],
+                "name": "mitchell",
+                "screen_name": "OfficialMGomez1"
+            }
+        ]
+    },
+    "extended_tweet": {
+        "display_text_range": [
+            17,
+            193
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 991744823345532928,
+                    "id_str": "991744823345532928",
+                    "indices": [
+                        0,
+                        16
+                    ],
+                    "name": "mitchell",
+                    "screen_name": "OfficialMGomez1"
+                }
+            ]
+        },
+        "full_text": "@OfficialMGomez1 Can\u2019t believe I\u2019m saying this but...it\u2019s okay. Everyone makes mistakes. Players can\u2019t let it come down to one play and let the refs decide the game for them. Keep your head up."
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1347399496548888578,
+    "id_str": "1347399496548888578",
+    "in_reply_to_screen_name": "OfficialMGomez1",
+    "in_reply_to_status_id": 1347381409003012098,
+    "in_reply_to_status_id_str": "1347381409003012098",
+    "in_reply_to_user_id": 991744823345532928,
+    "in_reply_to_user_id_str": "991744823345532928",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@OfficialMGomez1 Can\u2019t believe I\u2019m saying this but...it\u2019s okay. Everyone makes mistakes. Players can\u2019t let it come\u2026 https://t.co/A7x2EFucNb",
+    "timestamp_ms": "1610080048106",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 18 20:49:13 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Follower of Christ | husband | dad | teacher | coach | OBU football alum",
+        "favourites_count": 30867,
+        "follow_request_sent": null,
+        "followers_count": 1092,
+        "following": null,
+        "friends_count": 797,
+        "geo_enabled": true,
+        "id": 268465301,
+        "id_str": "268465301",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3,
+        "location": "Midwest City, OK - Moore, OK",
+        "name": "Bo",
+        "notifications": null,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/268465301/1607846575",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1338031625259675651/9LEm8p0l_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1338031625259675651/9LEm8p0l_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "bobradshaw15",
+        "statuses_count": 9807,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
+

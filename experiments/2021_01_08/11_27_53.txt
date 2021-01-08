@@ -1,0 +1,145 @@
+not all arguments converted during string formatting,
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 08 04:27:27 +0000 2021",
+    "display_text_range": [
+        25,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1347399494640480257",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/XsKd4vP9b4"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1269741510314135552,
+                "id_str": "1269741510314135552",
+                "indices": [
+                    0,
+                    7
+                ],
+                "name": "Krys Ose",
+                "screen_name": "OseKry"
+            },
+            {
+                "id": 2712208813,
+                "id_str": "2712208813",
+                "indices": [
+                    8,
+                    24
+                ],
+                "name": "Rachel",
+                "screen_name": "TheRachelLeeAnn"
+            }
+        ]
+    },
+    "extended_tweet": {
+        "display_text_range": [
+            25,
+            225
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1269741510314135552,
+                    "id_str": "1269741510314135552",
+                    "indices": [
+                        0,
+                        7
+                    ],
+                    "name": "Krys Ose",
+                    "screen_name": "OseKry"
+                },
+                {
+                    "id": 2712208813,
+                    "id_str": "2712208813",
+                    "indices": [
+                        8,
+                        24
+                    ],
+                    "name": "Rachel",
+                    "screen_name": "TheRachelLeeAnn"
+                }
+            ]
+        },
+        "full_text": "@OseKry @TheRachelLeeAnn In ordinary times this would have been abhorrent but during a pandemic ?  \n\nAny President in my lifetime would have put the people first - he is a sociopath, even this speech he sees as the long game."
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1347399494640480257,
+    "id_str": "1347399494640480257",
+    "in_reply_to_screen_name": "OseKry",
+    "in_reply_to_status_id": 1347356451031887875,
+    "in_reply_to_status_id_str": "1347356451031887875",
+    "in_reply_to_user_id": 1269741510314135552,
+    "in_reply_to_user_id_str": "1269741510314135552",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@OseKry @TheRachelLeeAnn In ordinary times this would have been abhorrent but during a pandemic ?  \n\nAny President\u2026 https://t.co/XsKd4vP9b4",
+    "timestamp_ms": "1610080047651",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 23 11:55:37 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I remember Space Invaders! owned and loved every Nintendo Console PS3 & PS4, PS4VR most Sega, Atari, X-box & 360 & PC MMO's. Currently playing Fallout 76",
+        "favourites_count": 410,
+        "follow_request_sent": null,
+        "followers_count": 46,
+        "following": null,
+        "friends_count": 226,
+        "geo_enabled": false,
+        "id": 844880307480334338,
+        "id_str": "844880307480334338",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "The Forest psn bravebern",
+        "name": "Middle Aged Gamer",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/844880307480334338/1582795702",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/844892504604508160/nSlqP3t4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/844892504604508160/nSlqP3t4_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MidAged_Gamer",
+        "statuses_count": 1054,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
+

@@ -1,0 +1,204 @@
+not all arguments converted during string formatting,
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 08 04:30:24 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 178580925,
+                "id_str": "178580925",
+                "indices": [
+                    3,
+                    17
+                ],
+                "name": "Shams Charania",
+                "screen_name": "ShamsCharania"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1347400238479233024,
+    "id_str": "1347400238479233024",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jan 08 04:30:04 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1347400153108504576",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/YD3RHoI971"
+                }
+            ],
+            "user_mentions": []
+        },
+        "extended_tweet": {
+            "display_text_range": [
+                0,
+                225
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 808820554622869504,
+                        "id_str": "808820554622869504",
+                        "indices": [
+                            200,
+                            215
+                        ],
+                        "name": "The Athletic NBA",
+                        "screen_name": "TheAthleticNBA"
+                    },
+                    {
+                        "id": 1465241041,
+                        "id_str": "1465241041",
+                        "indices": [
+                            216,
+                            224
+                        ],
+                        "name": "Stadium",
+                        "screen_name": "Stadium"
+                    }
+                ]
+            },
+            "full_text": "The Philadelphia 76ers learned of a positive coronavirus test for a player during tonight\u2019s game in Brooklyn, forcing the entire team to quarantine in New York tonight and contact trace, sources tell @TheAthleticNBA @Stadium."
+        },
+        "favorite_count": 151,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 1347400153108504576,
+        "id_str": "1347400153108504576",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "quote_count": 22,
+        "reply_count": 21,
+        "retweet_count": 22,
+        "retweeted": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "text": "The Philadelphia 76ers learned of a positive coronavirus test for a player during tonight\u2019s game in Brooklyn, forci\u2026 https://t.co/YD3RHoI971",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Aug 15 04:12:47 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Senior lead NBA Insider/Writer/Analyst for The Athletic and Stadium http://theathletic.com/author/shams-c\u2026",
+            "favourites_count": 266,
+            "follow_request_sent": null,
+            "followers_count": 1080242,
+            "following": null,
+            "friends_count": 472,
+            "geo_enabled": true,
+            "id": 178580925,
+            "id_str": "178580925",
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 12288,
+            "location": "Chicago, IL",
+            "name": "Shams Charania",
+            "notifications": null,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/178580925/1535385217",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1197929409044504576/nKXnm0aN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197929409044504576/nKXnm0aN_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "ShamsCharania",
+            "statuses_count": 12446,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://www.instagram.com/shamsnba/",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @ShamsCharania: The Philadelphia 76ers learned of a positive coronavirus test for a player during tonight\u2019s game in Brooklyn, forcing th\u2026",
+    "timestamp_ms": "1610080224996",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 27 05:09:44 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Los Angeles Lakers reporter for @TheAthletic. Co-host of The Forum Club podcast. IG: @jovanbuha. Email: jbuha@theathletic.com. Pronounced: Yo-von Boo-ha.",
+        "favourites_count": 21828,
+        "follow_request_sent": null,
+        "followers_count": 19640,
+        "following": null,
+        "friends_count": 1280,
+        "geo_enabled": true,
+        "id": 42820745,
+        "id_str": "42820745",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 908,
+        "location": "Los Angeles, CA",
+        "name": "Jovan Buha",
+        "notifications": null,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42820745/1599712758",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1310331351514509312/JS0a0pmt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1310331351514509312/JS0a0pmt_normal.jpg",
+        "profile_link_color": "C90E0E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "jovanbuha",
+        "statuses_count": 46729,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://theathletic.com/author/jovan-buha/",
+        "utc_offset": null,
+        "verified": true
+    }
+}
+

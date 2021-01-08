@@ -1,0 +1,99 @@
+not all arguments converted during string formatting,
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 08 04:27:27 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1347399495189991425",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/teS1opNvNv"
+            }
+        ],
+        "user_mentions": []
+    },
+    "extended_tweet": {
+        "display_text_range": [
+            0,
+            279
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "full_text": "But I was gonna play the game smart so I walked in our bedroom and I grabbed the ring off the dresser it was still sitting there from earlier\ud83d\ude10.And packed up some clothes and grabbed my keys and headed back upstairs cs you not finna disrespect me like that since she was cheating-"
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1347399495189991425,
+    "id_str": "1347399495189991425",
+    "in_reply_to_screen_name": "Drippy_Threads",
+    "in_reply_to_status_id": 1347399493667467264,
+    "in_reply_to_status_id_str": "1347399493667467264",
+    "in_reply_to_user_id": 1312492918557609985,
+    "in_reply_to_user_id_str": "1312492918557609985",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "But I was gonna play the game smart so I walked in our bedroom and I grabbed the ring off the dresser it was still\u2026 https://t.co/teS1opNvNv",
+    "timestamp_ms": "1610080047782",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Oct 03 20:41:59 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\ud835\udc03\ud835\udc1e\ud835\udc2c\ud835\udc2d\ud835\udc22\ud835\udc27\ud835\udc32\ud83d\udda4\ud835\udc12\ud835\udc24\ud835\udc22\ud835\udc29\ud835\udc29\ud835\udc32\ud83e\udd0d...\ud835\udc30\ud835\udc1e \ud835\udc1b\ud835\udc28\ud835\udc2d\ud835\udc21 \ud835\udc2b\ud835\udc2e\ud835\udc27 \ud835\udc1d\ud835\udc22\ud835\udc2c \ud835\udc29\ud835\udc1a\ud835\udc20\ud835\udc1e\ud83e\udde1\ud83d\ude0f\u20222.9k???\ud835\udc03\ud835\udc2b\ud835\udc22\ud835\udc29 \ud835\udc1b\ud835\udc1a\ud835\udc1b\ud835\udc1e\ud835\udc2c\ud83e\udde1\ud83e\udd0d\ud835\udc1b\ud835\udc1a\ud835\udc1c\ud835\udc24\ud835\udc2e\ud835\udc29\u2022@drippy_threadz\ud83d\udda4\u20223rd\u2022",
+        "favourites_count": 4151,
+        "follow_request_sent": null,
+        "followers_count": 2894,
+        "following": null,
+        "friends_count": 85,
+        "geo_enabled": false,
+        "id": 1312492918557609985,
+        "id_str": "1312492918557609985",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 19,
+        "location": "\u2601\ufe0f\ud835\uddc2\ud835\uddc7 \ud835\uddcd\ud835\uddc1\ud835\uddbe \ud835\uddbc\ud835\uddc5\ud835\uddc8\ud835\uddce\ud835\uddbd\ud835\uddcc\u2601\ufe0f",
+        "name": "\ud83e\udd0d\ud835\udc03\ud835\udc2b\ud835\udc22\ud835\udc29\ud835\udc29\ud835\udc32_\ud835\udc13\ud835\udc21\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc1d\ud835\udc2c\ud83e\udde1",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1312492918557609985/1609438091",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1344493198668926982/eqkuL19H_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1344493198668926982/eqkuL19H_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Drippy_Threads",
+        "statuses_count": 5341,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://tellonym.me/drippy_threads",
+        "utc_offset": null,
+        "verified": false
+    }
+}
+

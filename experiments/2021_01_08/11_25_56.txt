@@ -1,0 +1,125 @@
+(1136, "Column count doesn't match value count at row 1"),
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 08 04:25:46 +0000 2021",
+    "display_text_range": [
+        10,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1347399071628144640",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/0arboRObTv"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 4034379897,
+                "id_str": "4034379897",
+                "indices": [
+                    0,
+                    9
+                ],
+                "name": "Laer @ CocoGOAT Ganyu Force",
+                "screen_name": "fLarryon"
+            }
+        ]
+    },
+    "extended_tweet": {
+        "display_text_range": [
+            10,
+            201
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 4034379897,
+                    "id_str": "4034379897",
+                    "indices": [
+                        0,
+                        9
+                    ],
+                    "name": "Laer @ CocoGOAT Ganyu Force",
+                    "screen_name": "fLarryon"
+                }
+            ]
+        },
+        "full_text": "@fLarryon To me if it says \"once supposed to\"  then I think it was considered but never happened. Kinda like scrapped stuff in a video game, some stuff was supposed to be in the final but never got in."
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1347399071628144640,
+    "id_str": "1347399071628144640",
+    "in_reply_to_screen_name": "fLarryon",
+    "in_reply_to_status_id": 1347398030413148162,
+    "in_reply_to_status_id_str": "1347398030413148162",
+    "in_reply_to_user_id": 4034379897,
+    "in_reply_to_user_id_str": "4034379897",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@fLarryon To me if it says \"once supposed to\"  then I think it was considered but never happened. Kinda like scrapp\u2026 https://t.co/0arboRObTv",
+    "timestamp_ms": "1610079946797",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu May 07 23:09:51 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A guy that just really loves FE5, and FE in general. \nI make palette portraits when I'm bored. Also I play more than just FE, such as KH and LoZ. I also draw.",
+        "favourites_count": 56,
+        "follow_request_sent": null,
+        "followers_count": 12,
+        "following": null,
+        "friends_count": 26,
+        "geo_enabled": false,
+        "id": 1258534444622843904,
+        "id_str": "1258534444622843904",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": null,
+        "name": "Zetta Flare",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1258534444622843904/1594617338",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1347179419794870272/tvfht1Nw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347179419794870272/tvfht1Nw_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FlareZetta",
+        "statuses_count": 366,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
+

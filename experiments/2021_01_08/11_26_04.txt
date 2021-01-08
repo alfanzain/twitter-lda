@@ -1,0 +1,184 @@
+(1136, "Column count doesn't match value count at row 1"),
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 08 04:25:46 +0000 2021",
+    "display_text_range": [
+        15,
+        93
+    ],
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "description": "donald trump rnc GIF by Election 2016",
+                "display_url": "pic.twitter.com/p2WIFZkheS",
+                "expanded_url": "https://twitter.com/footservanto1/status/1347399072353820673/photo/1",
+                "id": 1347399065261248514,
+                "id_str": "1347399065261248514",
+                "indices": [
+                    94,
+                    117
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/ErLsT5-XEAIBUpM.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ErLsT5-XEAIBUpM.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 264,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "medium": {
+                        "h": 264,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "small": {
+                        "h": 264,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/p2WIFZkheS"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1278539309503492101,
+                "id_str": "1278539309503492101",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "goddess ally \ud83d\udc78\ud83d\udc96 (1.2k)",
+                "screen_name": "goddessally02"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "description": "donald trump rnc GIF by Election 2016",
+                "display_url": "pic.twitter.com/p2WIFZkheS",
+                "expanded_url": "https://twitter.com/footservanto1/status/1347399072353820673/photo/1",
+                "id": 1347399065261248514,
+                "id_str": "1347399065261248514",
+                "indices": [
+                    94,
+                    117
+                ],
+                "media_url": "http://pbs.twimg.com/tweet_video_thumb/ErLsT5-XEAIBUpM.jpg",
+                "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ErLsT5-XEAIBUpM.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 264,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "medium": {
+                        "h": 264,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "small": {
+                        "h": 264,
+                        "resize": "fit",
+                        "w": 480
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "animated_gif",
+                "url": "https://t.co/p2WIFZkheS",
+                "video_info": {
+                    "aspect_ratio": [
+                        20,
+                        11
+                    ],
+                    "variants": [
+                        {
+                            "bitrate": 0,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/tweet_video/ErLsT5-XEAIBUpM.mp4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1347399072353820673,
+    "id_str": "1347399072353820673",
+    "in_reply_to_screen_name": "goddessally02",
+    "in_reply_to_status_id": 1347397725302583301,
+    "in_reply_to_status_id_str": "1347397725302583301",
+    "in_reply_to_user_id": 1278539309503492101,
+    "in_reply_to_user_id_str": "1278539309503492101",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "@goddessally02 Lol trump humpers need a retweet game to make @goddessslly02 wallet full again https://t.co/p2WIFZkheS",
+    "timestamp_ms": "1610079946970",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 22 03:38:21 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": null,
+        "favourites_count": 14353,
+        "follow_request_sent": null,
+        "followers_count": 3926,
+        "following": null,
+        "friends_count": 1124,
+        "geo_enabled": false,
+        "id": 844392780034117632,
+        "id_str": "844392780034117632",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": null,
+        "name": "footservant01`",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "footservanto1",
+        "statuses_count": 128238,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
+

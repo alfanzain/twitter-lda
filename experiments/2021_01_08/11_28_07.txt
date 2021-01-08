@@ -1,0 +1,99 @@
+not all arguments converted during string formatting,
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 08 04:27:28 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1347399496230047748",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/ySlRFeYaMW"
+            }
+        ],
+        "user_mentions": []
+    },
+    "extended_tweet": {
+        "display_text_range": [
+            0,
+            181
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "full_text": "They won't to worry about social distancing at the Scotiabank Centre now that  the Leafs have approval to play there.  Just let the people in who want to pay to watch a hockey game."
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1347399496230047748,
+    "id_str": "1347399496230047748",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "They won't to worry about social distancing at the Scotiabank Centre now that  the Leafs have approval to play ther\u2026 https://t.co/ySlRFeYaMW",
+    "timestamp_ms": "1610080048030",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 01 16:21:42 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Veteran journalist (daily newspapers across Canada; magazines; radio; TV) incipient publisher: Crock; The new Millennium.",
+        "favourites_count": 0,
+        "follow_request_sent": null,
+        "followers_count": 2,
+        "following": null,
+        "friends_count": 0,
+        "geo_enabled": true,
+        "id": 1013457629266341889,
+        "id_str": "1013457629266341889",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Victoria, British Columbia",
+        "name": "Brian Mockler",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1013457629266341889/1558648598",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1336830805906112512/7UKxmQ2r_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336830805906112512/7UKxmQ2r_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BrianMockler2",
+        "statuses_count": 1,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
+

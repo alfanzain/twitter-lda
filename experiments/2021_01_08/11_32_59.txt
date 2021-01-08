@@ -1,0 +1,329 @@
+not all arguments converted during string formatting,
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 08 04:32:47 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Lf2L0NUeGo",
+                "expanded_url": "https://twitter.com/sanket7262/status/1347398956209172482/photo/1",
+                "id": 1347398953411596290,
+                "id_str": "1347398953411596290",
+                "indices": [
+                    98,
+                    121
+                ],
+                "media_url": "http://pbs.twimg.com/media/ErLsNZTU0AIGDoY.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ErLsNZTU0AIGDoY.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 298,
+                        "resize": "fit",
+                        "w": 667
+                    },
+                    "medium": {
+                        "h": 298,
+                        "resize": "fit",
+                        "w": 667
+                    },
+                    "small": {
+                        "h": 298,
+                        "resize": "fit",
+                        "w": 667
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 1347398956209172482,
+                "source_status_id_str": "1347398956209172482",
+                "source_user_id": 2300785494,
+                "source_user_id_str": "2300785494",
+                "type": "photo",
+                "url": "https://t.co/Lf2L0NUeGo"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2300785494,
+                "id_str": "2300785494",
+                "indices": [
+                    3,
+                    14
+                ],
+                "name": ".",
+                "screen_name": "sanket7262"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Lf2L0NUeGo",
+                "expanded_url": "https://twitter.com/sanket7262/status/1347398956209172482/photo/1",
+                "id": 1347398953411596290,
+                "id_str": "1347398953411596290",
+                "indices": [
+                    98,
+                    121
+                ],
+                "media_url": "http://pbs.twimg.com/media/ErLsNZTU0AIGDoY.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ErLsNZTU0AIGDoY.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 298,
+                        "resize": "fit",
+                        "w": 667
+                    },
+                    "medium": {
+                        "h": 298,
+                        "resize": "fit",
+                        "w": 667
+                    },
+                    "small": {
+                        "h": 298,
+                        "resize": "fit",
+                        "w": 667
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 1347398956209172482,
+                "source_status_id_str": "1347398956209172482",
+                "source_user_id": 2300785494,
+                "source_user_id_str": "2300785494",
+                "type": "photo",
+                "url": "https://t.co/Lf2L0NUeGo"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1347400835995586560,
+    "id_str": "1347400835995586560",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jan 08 04:25:19 +0000 2021",
+        "display_text_range": [
+            0,
+            81
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Lf2L0NUeGo",
+                    "expanded_url": "https://twitter.com/sanket7262/status/1347398956209172482/photo/1",
+                    "id": 1347398953411596290,
+                    "id_str": "1347398953411596290",
+                    "indices": [
+                        82,
+                        105
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ErLsNZTU0AIGDoY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ErLsNZTU0AIGDoY.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 298,
+                            "resize": "fit",
+                            "w": 667
+                        },
+                        "medium": {
+                            "h": 298,
+                            "resize": "fit",
+                            "w": 667
+                        },
+                        "small": {
+                            "h": 298,
+                            "resize": "fit",
+                            "w": 667
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/Lf2L0NUeGo"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/Lf2L0NUeGo",
+                    "expanded_url": "https://twitter.com/sanket7262/status/1347398956209172482/photo/1",
+                    "id": 1347398953411596290,
+                    "id_str": "1347398953411596290",
+                    "indices": [
+                        82,
+                        105
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ErLsNZTU0AIGDoY.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ErLsNZTU0AIGDoY.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 298,
+                            "resize": "fit",
+                            "w": 667
+                        },
+                        "medium": {
+                            "h": 298,
+                            "resize": "fit",
+                            "w": 667
+                        },
+                        "small": {
+                            "h": 298,
+                            "resize": "fit",
+                            "w": 667
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/Lf2L0NUeGo"
+                }
+            ]
+        },
+        "favorite_count": 20,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 1347398956209172482,
+        "id_str": "1347398956209172482",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 9,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Rohit Sharma &amp; Shubman gill both on the crease bring on your short ball game. https://t.co/Lf2L0NUeGo",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jan 20 04:54:55 +0000 2014",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Cricket/Football",
+            "favourites_count": 92396,
+            "follow_request_sent": null,
+            "followers_count": 1691,
+            "following": null,
+            "friends_count": 679,
+            "geo_enabled": true,
+            "id": 2300785494,
+            "id_str": "2300785494",
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 6,
+            "location": "Pune, India",
+            "name": ".",
+            "notifications": null,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2300785494/1610034529",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1338090227391295490/TI5cYfrF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1338090227391295490/TI5cYfrF_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "sanket7262",
+            "statuses_count": 30089,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @sanket7262: Rohit Sharma &amp; Shubman gill both on the crease bring on your short ball game. https://t.co/Lf2L0NUeGo",
+    "timestamp_ms": "1610080367455",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jul 18 05:23:26 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Software Engineer | Cricket Aficionado | Movie Buff | This is the place where I have fun ;)",
+        "favourites_count": 10224,
+        "follow_request_sent": null,
+        "followers_count": 817,
+        "following": null,
+        "friends_count": 300,
+        "geo_enabled": true,
+        "id": 168029282,
+        "id_str": "168029282",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 19,
+        "location": "vellore",
+        "name": "Nostalgia Merchant \ud83d\ude0b",
+        "notifications": null,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/777923154207383552/oVsu3io3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/777923154207383552/oVsu3io3_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "varun477",
+        "statuses_count": 48423,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
+

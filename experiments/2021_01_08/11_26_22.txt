@@ -1,0 +1,345 @@
+(1136, "Column count doesn't match value count at row 1"),
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 08 04:26:15 +0000 2021",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    58,
+                    74
+                ],
+                "text": "Revoke3FarmActs"
+            }
+        ],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/tRcxvDhU9y",
+                "expanded_url": "https://twitter.com/JimmyKahlon2/status/1347398826274025472/photo/1",
+                "id": 1347398751149764610,
+                "id_str": "1347398751149764610",
+                "indices": [
+                    75,
+                    98
+                ],
+                "media_url": "http://pbs.twimg.com/media/ErLsBn0WMAI3ii_.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ErLsBn0WMAI3ii_.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 487,
+                        "resize": "fit",
+                        "w": 1127
+                    },
+                    "medium": {
+                        "h": 487,
+                        "resize": "fit",
+                        "w": 1127
+                    },
+                    "small": {
+                        "h": 294,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 1347398826274025472,
+                "source_status_id_str": "1347398826274025472",
+                "source_user_id": 1334315271146844161,
+                "source_user_id_str": "1334315271146844161",
+                "type": "photo",
+                "url": "https://t.co/tRcxvDhU9y"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1334315271146844161,
+                "id_str": "1334315271146844161",
+                "indices": [
+                    3,
+                    16
+                ],
+                "name": "Jimmy Kahlon",
+                "screen_name": "JimmyKahlon2"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/tRcxvDhU9y",
+                "expanded_url": "https://twitter.com/JimmyKahlon2/status/1347398826274025472/photo/1",
+                "id": 1347398751149764610,
+                "id_str": "1347398751149764610",
+                "indices": [
+                    75,
+                    98
+                ],
+                "media_url": "http://pbs.twimg.com/media/ErLsBn0WMAI3ii_.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ErLsBn0WMAI3ii_.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 487,
+                        "resize": "fit",
+                        "w": 1127
+                    },
+                    "medium": {
+                        "h": 487,
+                        "resize": "fit",
+                        "w": 1127
+                    },
+                    "small": {
+                        "h": 294,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "source_status_id": 1347398826274025472,
+                "source_status_id_str": "1347398826274025472",
+                "source_user_id": 1334315271146844161,
+                "source_user_id_str": "1334315271146844161",
+                "type": "photo",
+                "url": "https://t.co/tRcxvDhU9y"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1347399190037491712,
+    "id_str": "1347399190037491712",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jan 08 04:24:48 +0000 2021",
+        "display_text_range": [
+            0,
+            56
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        40,
+                        56
+                    ],
+                    "text": "Revoke3FarmActs"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/tRcxvDhU9y",
+                    "expanded_url": "https://twitter.com/JimmyKahlon2/status/1347398826274025472/photo/1",
+                    "id": 1347398751149764610,
+                    "id_str": "1347398751149764610",
+                    "indices": [
+                        57,
+                        80
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ErLsBn0WMAI3ii_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ErLsBn0WMAI3ii_.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 487,
+                            "resize": "fit",
+                            "w": 1127
+                        },
+                        "medium": {
+                            "h": 487,
+                            "resize": "fit",
+                            "w": 1127
+                        },
+                        "small": {
+                            "h": 294,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/tRcxvDhU9y"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/tRcxvDhU9y",
+                    "expanded_url": "https://twitter.com/JimmyKahlon2/status/1347398826274025472/photo/1",
+                    "id": 1347398751149764610,
+                    "id_str": "1347398751149764610",
+                    "indices": [
+                        57,
+                        80
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ErLsBn0WMAI3ii_.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ErLsBn0WMAI3ii_.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 487,
+                            "resize": "fit",
+                            "w": 1127
+                        },
+                        "medium": {
+                            "h": 487,
+                            "resize": "fit",
+                            "w": 1127
+                        },
+                        "small": {
+                            "h": 294,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/tRcxvDhU9y"
+                }
+            ]
+        },
+        "favorite_count": 0,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 1347398826274025472,
+        "id_str": "1347398826274025472",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "This aint no game. But we here to play. #Revoke3FarmActs https://t.co/tRcxvDhU9y",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Dec 03 01:55:33 +0000 2020",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": null,
+            "favourites_count": 1370,
+            "follow_request_sent": null,
+            "followers_count": 171,
+            "following": null,
+            "friends_count": 196,
+            "geo_enabled": false,
+            "id": 1334315271146844161,
+            "id_str": "1334315271146844161",
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 0,
+            "location": null,
+            "name": "Jimmy Kahlon",
+            "notifications": null,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1335341628219924488/o6XG3hx5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1335341628219924488/o6XG3hx5_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "JimmyKahlon2",
+            "statuses_count": 2155,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "RT @JimmyKahlon2: This aint no game. But we here to play. #Revoke3FarmActs https://t.co/tRcxvDhU9y",
+    "timestamp_ms": "1610079975028",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 18 08:21:49 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": null,
+        "favourites_count": 1598,
+        "follow_request_sent": null,
+        "followers_count": 92,
+        "following": null,
+        "friends_count": 36,
+        "geo_enabled": false,
+        "id": 1273531194617901058,
+        "id_str": "1273531194617901058",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "120 metres above sea level",
+        "name": "LoneRider",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1273531194617901058/1607877217",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1338159892780105728/Ue_tI168_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1338159892780105728/Ue_tI168_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NpsSekhon",
+        "statuses_count": 6290,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
+

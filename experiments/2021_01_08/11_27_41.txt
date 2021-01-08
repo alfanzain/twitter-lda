@@ -1,0 +1,304 @@
+not all arguments converted during string formatting,
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 08 04:27:27 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 26270913,
+                "id_str": "26270913",
+                "indices": [
+                    3,
+                    12
+                ],
+                "name": "Golden State Warriors",
+                "screen_name": "warriors"
+            },
+            {
+                "id": 59889953,
+                "id_str": "59889953",
+                "indices": [
+                    113,
+                    121
+                ],
+                "name": "Verizon",
+                "screen_name": "Verizon"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1347399492698583042,
+    "id_str": "1347399492698583042",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jan 07 22:04:39 +0000 2021",
+        "display_text_range": [
+            0,
+            109
+        ],
+        "entities": {
+            "hashtags": [],
+            "media": [
+                {
+                    "additional_media_info": {
+                        "description": "",
+                        "embeddable": true,
+                        "monetizable": false,
+                        "title": ""
+                    },
+                    "display_url": "pic.twitter.com/vFPUi3mxJi",
+                    "expanded_url": "https://twitter.com/warriors/status/1347303159727755264/video/1",
+                    "id": 1347292355452227584,
+                    "id_str": "1347292355452227584",
+                    "indices": [
+                        110,
+                        133
+                    ],
+                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1347292355452227584/img/xqV-_TvJDQ38bKSE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1347292355452227584/img/xqV-_TvJDQ38bKSE.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 720,
+                            "resize": "fit",
+                            "w": 1280
+                        },
+                        "medium": {
+                            "h": 675,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 383,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/vFPUi3mxJi"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 59889953,
+                    "id_str": "59889953",
+                    "indices": [
+                        99,
+                        107
+                    ],
+                    "name": "Verizon",
+                    "screen_name": "Verizon"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "additional_media_info": {
+                        "description": "",
+                        "embeddable": true,
+                        "monetizable": false,
+                        "title": ""
+                    },
+                    "display_url": "pic.twitter.com/vFPUi3mxJi",
+                    "expanded_url": "https://twitter.com/warriors/status/1347303159727755264/video/1",
+                    "id": 1347292355452227584,
+                    "id_str": "1347292355452227584",
+                    "indices": [
+                        110,
+                        133
+                    ],
+                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1347292355452227584/img/xqV-_TvJDQ38bKSE.jpg",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1347292355452227584/img/xqV-_TvJDQ38bKSE.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 720,
+                            "resize": "fit",
+                            "w": 1280
+                        },
+                        "medium": {
+                            "h": 675,
+                            "resize": "fit",
+                            "w": 1200
+                        },
+                        "small": {
+                            "h": 383,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "video",
+                    "url": "https://t.co/vFPUi3mxJi",
+                    "video_info": {
+                        "aspect_ratio": [
+                            16,
+                            9
+                        ],
+                        "duration_millis": 96330,
+                        "variants": [
+                            {
+                                "bitrate": 288000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1347292355452227584/vid/480x270/afU3cBIsCO1jZOgx.mp4?tag=13"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1347292355452227584/pl/Ix2iADFbyHJthElQ.m3u8?tag=13"
+                            },
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1347292355452227584/vid/640x360/4oBAzPzWFfGslIHz.mp4?tag=13"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1347292355452227584/vid/1280x720/iaw5nax7wL57y4ja.mp4?tag=13"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "favorite_count": 1119,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 1347303159727755264,
+        "id_str": "1347303159727755264",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quote_count": 6,
+        "reply_count": 25,
+        "retweet_count": 71,
+        "retweeted": false,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "Take another look at last night's matchup against the Clippers with Game Rewind, brought to you by @Verizon \u23ea https://t.co/vFPUi3mxJi",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Mar 24 16:42:22 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6 \u2022 #DubNation \u2022 #WarriorsGround",
+            "favourites_count": 12739,
+            "follow_request_sent": null,
+            "followers_count": 6596132,
+            "following": null,
+            "friends_count": 912,
+            "geo_enabled": true,
+            "id": 26270913,
+            "id_str": "26270913",
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 10222,
+            "location": "San Francisco, CA",
+            "name": "Golden State Warriors",
+            "notifications": null,
+            "profile_background_color": "FFCC33",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/26270913/1607735960",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1347059166825730051/OYXHCfwG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347059166825730051/OYXHCfwG_normal.jpg",
+            "profile_link_color": "002A5C",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "E4E8F1",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "warriors",
+            "statuses_count": 88983,
+            "time_zone": null,
+            "translator_type": "regular",
+            "url": "http://warriors.com",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @warriors: Take another look at last night's matchup against the Clippers with Game Rewind, brought to you by @Verizon \u23ea https://t.co/vF\u2026",
+    "timestamp_ms": "1610080047188",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jun 20 00:03:45 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": null,
+        "favourites_count": 4539,
+        "follow_request_sent": null,
+        "followers_count": 31,
+        "following": null,
+        "friends_count": 152,
+        "geo_enabled": false,
+        "id": 1274129841907011585,
+        "id_str": "1274129841907011585",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Columbus, OH",
+        "name": "Luke Joseph",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1274129841907011585/1603031691",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1317836369432055810/aNDHtyfF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317836369432055810/aNDHtyfF_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "luke_joseph69",
+        "statuses_count": 3305,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
+

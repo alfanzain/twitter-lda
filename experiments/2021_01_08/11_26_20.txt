@@ -1,0 +1,331 @@
+(1136, "Column count doesn't match value count at row 1"),
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 08 04:26:15 +0000 2021",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    27,
+                    49
+                ],
+                "text": "NationalBobbleheadDay"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 21799765,
+                "id_str": "21799765",
+                "indices": [
+                    3,
+                    13
+                ],
+                "name": "Jersey Shore BlueClaws",
+                "screen_name": "BlueClaws"
+            },
+            {
+                "id": 469466399,
+                "id_str": "469466399",
+                "indices": [
+                    73,
+                    86
+                ],
+                "name": "Scott Kingery",
+                "screen_name": "ScottyJetp4x"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1347399190004035585,
+    "id_str": "1347399190004035585",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jan 07 15:45:28 +0000 2021",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        12,
+                        34
+                    ],
+                    "text": "NationalBobbleheadDay"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1347207736149176321",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/tCxBeWtVkf"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 469466399,
+                    "id_str": "469466399",
+                    "indices": [
+                        58,
+                        71
+                    ],
+                    "name": "Scott Kingery",
+                    "screen_name": "ScottyJetp4x"
+                }
+            ]
+        },
+        "extended_tweet": {
+            "display_text_range": [
+                0,
+                279
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            12,
+                            34
+                        ],
+                        "text": "NationalBobbleheadDay"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/D2MULa1uje",
+                        "expanded_url": "https://twitter.com/BlueClaws/status/1347207736149176321/photo/1",
+                        "id": 1347207308837842944,
+                        "id_str": "1347207308837842944",
+                        "indices": [
+                            280,
+                            303
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/ErI96NoW8AAhokY.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/ErI96NoW8AAhokY.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 628,
+                                "resize": "fit",
+                                "w": 1200
+                            },
+                            "medium": {
+                                "h": 628,
+                                "resize": "fit",
+                                "w": 1200
+                            },
+                            "small": {
+                                "h": 356,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/D2MULa1uje"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "atmilb.com/3pVdugG",
+                        "expanded_url": "https://atmilb.com/3pVdugG",
+                        "indices": [
+                            256,
+                            279
+                        ],
+                        "url": "https://t.co/4VWDA2xQEK"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 469466399,
+                        "id_str": "469466399",
+                        "indices": [
+                            58,
+                            71
+                        ],
+                        "name": "Scott Kingery",
+                        "screen_name": "ScottyJetp4x"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/D2MULa1uje",
+                        "expanded_url": "https://twitter.com/BlueClaws/status/1347207736149176321/photo/1",
+                        "id": 1347207308837842944,
+                        "id_str": "1347207308837842944",
+                        "indices": [
+                            280,
+                            303
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/ErI96NoW8AAhokY.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/ErI96NoW8AAhokY.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 628,
+                                "resize": "fit",
+                                "w": 1200
+                            },
+                            "medium": {
+                                "h": 628,
+                                "resize": "fit",
+                                "w": 1200
+                            },
+                            "small": {
+                                "h": 356,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/D2MULa1uje"
+                    }
+                ]
+            },
+            "full_text": "In honor of #NationalBobbleheadDay, we're giving out this @ScottyJetp4x autographed Wizard bobblehead to someone that RTs this post! We'll announce the winner on Friday morning! \n\nSee the all-new Jersey Shore BlueClaws with a 5-Game Mini Plan this summer! https://t.co/4VWDA2xQEK https://t.co/D2MULa1uje"
+        },
+        "favorite_count": 71,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 1347207736149176321,
+        "id_str": "1347207736149176321",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quote_count": 2,
+        "reply_count": 8,
+        "retweet_count": 246,
+        "retweeted": false,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "In honor of #NationalBobbleheadDay, we're giving out this @ScottyJetp4x autographed Wizard bobblehead to someone th\u2026 https://t.co/tCxBeWtVkf",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Feb 24 21:25:31 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "\ud83c\udfdf Official Jersey Shore BlueClaws \u26be\ufe0f Phillies High-A Affiliate \ud83e\udd80 #ClawsUp at the Jersey Shore",
+            "favourites_count": 2471,
+            "follow_request_sent": null,
+            "followers_count": 24688,
+            "following": null,
+            "friends_count": 197,
+            "geo_enabled": true,
+            "id": 21799765,
+            "id_str": "21799765",
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 551,
+            "location": "Jersey Shore, NJ",
+            "name": "Jersey Shore BlueClaws",
+            "notifications": null,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/21799765/1603318437",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1319675001440784387/bkk69f0i_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1319675001440784387/bkk69f0i_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "BlueClaws",
+            "statuses_count": 35886,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "http://www.blueclaws.com",
+            "utc_offset": null,
+            "verified": true
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @BlueClaws: In honor of #NationalBobbleheadDay, we're giving out this @ScottyJetp4x autographed Wizard bobblehead to someone that RTs th\u2026",
+    "timestamp_ms": "1610079975020",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 22 01:48:32 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Baseball & College FB Fan,Baseball Card Collector,TT Baseball Player,Freelance Writer-@SCDMagazine,Co-Lead Writer-@MLBMarathon,BB Set Reviewer-@AboutTheCards",
+        "favourites_count": 2657,
+        "follow_request_sent": null,
+        "followers_count": 417,
+        "following": null,
+        "friends_count": 1188,
+        "geo_enabled": true,
+        "id": 2208127794,
+        "id_str": "2208127794",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": null,
+        "name": "Brian Flinn",
+        "notifications": null,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/631100592052699136/5JPeUWGf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/631100592052699136/5JPeUWGf_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BrianFlinn3",
+        "statuses_count": 4173,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
+

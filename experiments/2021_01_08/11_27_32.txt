@@ -1,0 +1,125 @@
+not all arguments converted during string formatting,
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 08 04:27:26 +0000 2021",
+    "display_text_range": [
+        13,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1347399491524173826",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/rQc9YQAfgC"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 78105431,
+                "id_str": "78105431",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Brad Evans",
+                "screen_name": "NoisyHuevos"
+            }
+        ]
+    },
+    "extended_tweet": {
+        "display_text_range": [
+            13,
+            293
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 78105431,
+                    "id_str": "78105431",
+                    "indices": [
+                        0,
+                        12
+                    ],
+                    "name": "Brad Evans",
+                    "screen_name": "NoisyHuevos"
+                }
+            ]
+        },
+        "full_text": "@NoisyHuevos Martingaled the 1st half in game:\n\n1 Unit\nCBB - [757] Illinois -3\u00bd-114WIN\n01/07/2021 08:40 PM\nTicket # 479501630\n\n2 Units\nCBB - [757] Illinois -1\u00bd-112WIN\n01/07/2021 08:41 PM\nTicket # 479501764\n\n4 Units\nCBB - [757] Illinois +8\u00bd-116WIN\n01/07/2021 08:55 PM\nTicket # 479503834\n\n+7 tot"
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1347399491524173826,
+    "id_str": "1347399491524173826",
+    "in_reply_to_screen_name": "NoisyHuevos",
+    "in_reply_to_status_id": 1347395718617591810,
+    "in_reply_to_status_id_str": "1347395718617591810",
+    "in_reply_to_user_id": 78105431,
+    "in_reply_to_user_id_str": "78105431",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "@NoisyHuevos Martingaled the 1st half in game:\n\n1 Unit\nCBB - [757] Illinois -3\u00bd-114WIN\n01/07/2021 08:40 PM\nTicket #\u2026 https://t.co/rQc9YQAfgC",
+    "timestamp_ms": "1610080046908",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 05 20:49:54 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "In the beginning, Twitter was created. This has made a lot of people very angry and been widely regarded as a bad move",
+        "favourites_count": 499,
+        "follow_request_sent": null,
+        "followers_count": 44,
+        "following": null,
+        "friends_count": 120,
+        "geo_enabled": true,
+        "id": 199020874,
+        "id_str": "199020874",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": "Missouri, USA",
+        "name": "Scott Goodman",
+        "notifications": null,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/199020874/1518223672",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1293599415261892613/-pIgZpM7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1293599415261892613/-pIgZpM7_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "IlliniDead",
+        "statuses_count": 781,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
+

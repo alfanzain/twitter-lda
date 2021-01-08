@@ -1,0 +1,99 @@
+not all arguments converted during string formatting,
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 08 04:32:47 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1347400835987226626",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/qgXNZo97fa"
+            }
+        ],
+        "user_mentions": []
+    },
+    "extended_tweet": {
+        "display_text_range": [
+            0,
+            141
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "full_text": "Can't stop my tears from coming out. It's been 30 minutes. Fucking stupid. Duh this dysphoric mania won't let me chill playing the damn game."
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1347400835987226626,
+    "id_str": "1347400835987226626",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Can't stop my tears from coming out. It's been 30 minutes. Fucking stupid. Duh this dysphoric mania won't let me ch\u2026 https://t.co/qgXNZo97fa",
+    "timestamp_ms": "1610080367453",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 11 04:37:45 +0000 2015",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@fariskor's babygirl",
+        "favourites_count": 4788,
+        "follow_request_sent": null,
+        "followers_count": 636,
+        "following": null,
+        "friends_count": 68,
+        "geo_enabled": true,
+        "id": 3072412693,
+        "id_str": "3072412693",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": null,
+        "name": "\u044f\u03b1\u044f\u03b1",
+        "notifications": null,
+        "profile_background_color": "F5ABB5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3072412693/1606408311",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1338335510066950144/niDdL__Z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1338335510066950144/niDdL__Z_normal.jpg",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "raasvrv",
+        "statuses_count": 88130,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://Instagram.com/raa.srra",
+        "utc_offset": null,
+        "verified": false
+    }
+}
+

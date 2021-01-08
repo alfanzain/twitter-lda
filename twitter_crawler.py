@@ -3,6 +3,13 @@ from models.Tweet import *
 import tweepy
 from time import sleep
 
+# tracks = ['-#porn', 'esport', 'Dota 2', 'DPC', 'Dota Pro Circuit', '#DPC', '#Dota2']
+tracks = ['-#porn', 'esport', 'E-sport']
+# tracks = ['-#porn', 'game', 'esport', 'Dota 2', 'DPC', 'Dota Pro Circuit', '#DPC', '#Dota2']
+# tracks = ['#game', '-#porn']
+# tracks = ['#game', '#StardewValley', '#Stardew', 'game', 'StardewValley']
+
+
 class StreamListener(tweepy.StreamListener):
 
     def __init__(self):
@@ -12,6 +19,7 @@ class StreamListener(tweepy.StreamListener):
     def create(self, status):
 
         tweet = Tweet()
+        tweet.tracks = tracks
         create = tweet.create(status)
 
         if create is True:
@@ -21,6 +29,7 @@ class StreamListener(tweepy.StreamListener):
     def update(self, status):
 
         tweet = Tweet()
+        tweet.tracks = tracks
         return tweet.update(status)
 
     # When API get a status while streaming
@@ -32,6 +41,8 @@ class StreamListener(tweepy.StreamListener):
                 print("{} is retweeting {}.".format(status.id_str, status.retweeted_status.id_str))
 
                 tweet = Tweet()
+                tweet.tracks = tracks
+
                 # Check if retweeted_status already exist
                 if tweet.is_tweet_exist(status.retweeted_status.id_str) != 0:
                     print("{} found!".format(status.retweeted_status.id_str))
@@ -46,13 +57,14 @@ class StreamListener(tweepy.StreamListener):
         else:
             print('Not an English tweet. Skipped.\n') # TODO : need count of skipped tweet? maybe?
 
-        sleep(2)
+        # sleep(2)
 
     def on_error(self, status_code):
         # print status_code if it is 420
         if status_code == 420:
             print(status_code)
             return False
+
 
 # Main functions
 
@@ -65,14 +77,10 @@ def setup():
 
 
 def start():
-    my_stream = tweepy.Stream(auth=setup().auth, listener=StreamListener(), tweet_mode='extended', snooze_time=5000.0)
+    my_stream = tweepy.Stream(auth=setup().auth, listener=StreamListener(), tweet_mode='extended')
     my_stream.filter(
-        track=[
-            # '#game', '-#porn'
-            # '#game', '#StardewValley', '#Stardew', 'game', 'StardewValley'
-            '-#porn', 'game', 'esport', 'Dota 2', 'DPC', 'Dota Pro Circuit', '#DPC', '#Dota2'
-        ],
-        # is_async=True
+        track=tracks,
+        is_async=True
     )
 
 

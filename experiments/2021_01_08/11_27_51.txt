@@ -1,0 +1,125 @@
+not all arguments converted during string formatting,
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 08 04:27:27 +0000 2021",
+    "display_text_range": [
+        13,
+        140
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1347399494564921344",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/RCjfwYgJ6m"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 1221266273176379392,
+                "id_str": "1221266273176379392",
+                "indices": [
+                    0,
+                    12
+                ],
+                "name": "Able",
+                "screen_name": "SinsOfAllag"
+            }
+        ]
+    },
+    "extended_tweet": {
+        "display_text_range": [
+            13,
+            175
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "id": 1221266273176379392,
+                    "id_str": "1221266273176379392",
+                    "indices": [
+                        0,
+                        12
+                    ],
+                    "name": "Able",
+                    "screen_name": "SinsOfAllag"
+                }
+            ]
+        },
+        "full_text": "@SinsOfAllag I\u2019ve unfortunately never played 2, I watched my dad play it when I was a kid. Pretty sure MW3 was the first game I ever played, I miss MW4 and MW4 Mercs a lot too"
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1347399494564921344,
+    "id_str": "1347399494564921344",
+    "in_reply_to_screen_name": "SinsOfAllag",
+    "in_reply_to_status_id": 1347399133997527041,
+    "in_reply_to_status_id_str": "1347399133997527041",
+    "in_reply_to_user_id": 1221266273176379392,
+    "in_reply_to_user_id_str": "1221266273176379392",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@SinsOfAllag I\u2019ve unfortunately never played 2, I watched my dad play it when I was a kid. Pretty sure MW3 was the\u2026 https://t.co/RCjfwYgJ6m",
+    "timestamp_ms": "1610080047633",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 04 11:34:02 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "27. She/He/They. FFXIV Roleplayer. Co-leader of Raven Heart, Balmung Server. FFXIV / Fire Emblem / MHW.",
+        "favourites_count": 13708,
+        "follow_request_sent": null,
+        "followers_count": 205,
+        "following": null,
+        "friends_count": 513,
+        "geo_enabled": false,
+        "id": 1069917740817879041,
+        "id_str": "1069917740817879041",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 0,
+        "location": null,
+        "name": "Cap\u2019n Vex",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069917740817879041/1597230984",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1332263410713542657/k5qbs2U2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1332263410713542657/k5qbs2U2_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "VRedain",
+        "statuses_count": 1712,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://vexredain.tumblr.com",
+        "utc_offset": null,
+        "verified": false
+    }
+}
+

@@ -1,0 +1,180 @@
+not all arguments converted during string formatting,
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 08 04:27:27 +0000 2021",
+    "display_text_range": [
+        26,
+        88
+    ],
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/8vh4TxitbD",
+                "expanded_url": "https://twitter.com/j_wil_25/status/1347399492765564929/photo/1",
+                "id": 1347399490156720128,
+                "id_str": "1347399490156720128",
+                "indices": [
+                    89,
+                    112
+                ],
+                "media_url": "http://pbs.twimg.com/media/ErLsso1VcAAg6uB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ErLsso1VcAAg6uB.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1792,
+                        "resize": "fit",
+                        "w": 828
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 554
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 314
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/8vh4TxitbD"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1336864213650780161,
+                "id_str": "1336864213650780161",
+                "indices": [
+                    0,
+                    13
+                ],
+                "name": "thesilence",
+                "screen_name": "thesilencedg"
+            },
+            {
+                "id": 588514797,
+                "id_str": "588514797",
+                "indices": [
+                    14,
+                    25
+                ],
+                "name": "Matthew Battershell",
+                "screen_name": "MattieBatt"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/8vh4TxitbD",
+                "expanded_url": "https://twitter.com/j_wil_25/status/1347399492765564929/photo/1",
+                "id": 1347399490156720128,
+                "id_str": "1347399490156720128",
+                "indices": [
+                    89,
+                    112
+                ],
+                "media_url": "http://pbs.twimg.com/media/ErLsso1VcAAg6uB.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ErLsso1VcAAg6uB.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1792,
+                        "resize": "fit",
+                        "w": 828
+                    },
+                    "medium": {
+                        "h": 1200,
+                        "resize": "fit",
+                        "w": 554
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 314
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/8vh4TxitbD"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1347399492765564929,
+    "id_str": "1347399492765564929",
+    "in_reply_to_screen_name": "thesilencedg",
+    "in_reply_to_status_id": 1347026213462794240,
+    "in_reply_to_status_id_str": "1347026213462794240",
+    "in_reply_to_user_id": 1336864213650780161,
+    "in_reply_to_user_id_str": "1336864213650780161",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@thesilencedg @MattieBatt The tattoo he circled is literally from the game Dishonored \ud83d\ude2d\ud83d\ude2d https://t.co/8vh4TxitbD",
+    "timestamp_ms": "1610080047204",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 10 18:14:54 +0000 2018",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "miserable little pile of secrets",
+        "favourites_count": 18250,
+        "follow_request_sent": null,
+        "followers_count": 96,
+        "following": null,
+        "friends_count": 335,
+        "geo_enabled": false,
+        "id": 972536289269460992,
+        "id_str": "972536289269460992",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1,
+        "location": null,
+        "name": "\u0418\u043e\u0441\u0438\u0444",
+        "notifications": null,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/972536289269460992/1558139658",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1342731832672972801/RvFHqfgi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1342731832672972801/RvFHqfgi_normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "j_wil_25",
+        "statuses_count": 1912,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
+

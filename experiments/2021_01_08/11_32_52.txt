@@ -1,0 +1,198 @@
+not all arguments converted during string formatting,
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 08 04:32:47 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 2596914176,
+                "id_str": "2596914176",
+                "indices": [
+                    3,
+                    13
+                ],
+                "name": "theMeatly",
+                "screen_name": "themeatly"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1347400835785920512,
+    "id_str": "1347400835785920512",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jan 08 03:53:01 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1347390828302491648",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/npBJMrvjSv"
+                }
+            ],
+            "user_mentions": []
+        },
+        "extended_tweet": {
+            "display_text_range": [
+                0,
+                251
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            236,
+                            243
+                        ],
+                        "text": "gaming"
+                    },
+                    {
+                        "indices": [
+                            244,
+                            251
+                        ],
+                        "text": "gamers"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "full_text": "So how do we all feel about the digital download vs physical copies of games debate? \ud83e\udd14 I really enjoy having physical game discs, especially of games I love, but downloading digital only copies is very convenient. What do YOU think? :) #gaming #gamers"
+        },
+        "favorite_count": 163,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 1347390828302491648,
+        "id_str": "1347390828302491648",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "quote_count": 1,
+        "reply_count": 42,
+        "retweet_count": 5,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "So how do we all feel about the digital download vs physical copies of games debate? \ud83e\udd14 I really enjoy having physic\u2026 https://t.co/npBJMrvjSv",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jun 30 21:07:50 +0000 2014",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "The Official Twitter of #theMeatly. Game developer and #gamedev comics! Creator of Bendy and the Ink Machine. ;)",
+            "favourites_count": 72828,
+            "follow_request_sent": null,
+            "followers_count": 91030,
+            "following": null,
+            "friends_count": 2510,
+            "geo_enabled": false,
+            "id": 2596914176,
+            "id_str": "2596914176",
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 579,
+            "location": null,
+            "name": "theMeatly",
+            "notifications": null,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2596914176/1454094718",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1345028739101548544/PxlSFak1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345028739101548544/PxlSFak1_normal.jpg",
+            "profile_link_color": "B03B00",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "themeatly",
+            "statuses_count": 61433,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "http://themeatly.com",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @themeatly: So how do we all feel about the digital download vs physical copies of games debate? \ud83e\udd14 I really enjoy having physical game d\u2026",
+    "timestamp_ms": "1610080367405",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 01 05:52:10 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Hi! I like to share kindness and neat stuff. I enjoy Disney parks, art, video games, nice people, and animals. @ me if you want to chat. (She/her)",
+        "favourites_count": 112548,
+        "follow_request_sent": null,
+        "followers_count": 1445,
+        "following": null,
+        "friends_count": 444,
+        "geo_enabled": false,
+        "id": 2224312266,
+        "id_str": "2224312266",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 172,
+        "location": null,
+        "name": "Becky \u2744",
+        "notifications": null,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2224312266/1563133418",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1314830937444679681/dRjmkHFb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1314830937444679681/dRjmkHFb_normal.jpg",
+        "profile_link_color": "8239D4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "BecksterCorgiMT",
+        "statuses_count": 267429,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://www.youtube.com/user/DisneyfanBeckers/",
+        "utc_offset": null,
+        "verified": false
+    }
+}
+
