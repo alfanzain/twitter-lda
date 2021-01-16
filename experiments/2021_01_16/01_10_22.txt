@@ -1,0 +1,302 @@
+(1054, "Unknown column 'id_str' in 'field list'"),
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 15 18:10:17 +0000 2021",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    110,
+                    115
+                ],
+                "text": "game"
+            },
+            {
+                "indices": [
+                    116,
+                    123
+                ],
+                "text": "\u30ec\u30c8\u30ed\u30b2\u30fc\u30e0"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1081352330300207104,
+                "id_str": "1081352330300207104",
+                "indices": [
+                    3,
+                    14
+                ],
+                "name": "KOYO-JPN Retro",
+                "screen_name": "koyo_retro"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1350143282232373248,
+    "id_str": "1350143282232373248",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Thu Jan 14 22:58:58 +0000 2021",
+        "display_text_range": [
+            0,
+            107
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        94,
+                        99
+                    ],
+                    "text": "game"
+                },
+                {
+                    "indices": [
+                        100,
+                        107
+                    ],
+                    "text": "\u30ec\u30c8\u30ed\u30b2\u30fc\u30e0"
+                }
+            ],
+            "media": [
+                {
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "display_url": "pic.twitter.com/EzZ8QdCdRn",
+                    "expanded_url": "https://twitter.com/koyo_retro/status/1349853542245273600/video/1",
+                    "id": 1349853488583348226,
+                    "id_str": "1349853488583348226",
+                    "indices": [
+                        108,
+                        131
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1349853488583348226/pu/img/-iA-uf6TWtf2egUS.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1349853488583348226/pu/img/-iA-uf6TWtf2egUS.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 406,
+                            "resize": "fit",
+                            "w": 720
+                        },
+                        "medium": {
+                            "h": 406,
+                            "resize": "fit",
+                            "w": 720
+                        },
+                        "small": {
+                            "h": 383,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/EzZ8QdCdRn"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "additional_media_info": {
+                        "monetizable": false
+                    },
+                    "display_url": "pic.twitter.com/EzZ8QdCdRn",
+                    "expanded_url": "https://twitter.com/koyo_retro/status/1349853542245273600/video/1",
+                    "id": 1349853488583348226,
+                    "id_str": "1349853488583348226",
+                    "indices": [
+                        108,
+                        131
+                    ],
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1349853488583348226/pu/img/-iA-uf6TWtf2egUS.jpg",
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1349853488583348226/pu/img/-iA-uf6TWtf2egUS.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 406,
+                            "resize": "fit",
+                            "w": 720
+                        },
+                        "medium": {
+                            "h": 406,
+                            "resize": "fit",
+                            "w": 720
+                        },
+                        "small": {
+                            "h": 383,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "video",
+                    "url": "https://t.co/EzZ8QdCdRn",
+                    "video_info": {
+                        "aspect_ratio": [
+                            360,
+                            203
+                        ],
+                        "duration_millis": 60000,
+                        "variants": [
+                            {
+                                "bitrate": 832000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1349853488583348226/pu/vid/720x406/cRGn-qismKLqW8mj.mp4?tag=10"
+                            },
+                            {
+                                "bitrate": 256000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/ext_tw_video/1349853488583348226/pu/vid/478x270/zZSIJOt14AF3DEfF.mp4?tag=10"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/ext_tw_video/1349853488583348226/pu/pl/NxSqq66Cs-yC24xz.m3u8?tag=10"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "favorite_count": 2,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 1349853542245273600,
+        "id_str": "1349853542245273600",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "\ud83c\udfae\ud835\ude83\ud835\ude98\ud835\ude8d\ud835\ude8a\ud835\udea2\u2019\ud835\ude9c \ud835\ude76\ud835\ude8a\ud835\ude96\ud835\ude8e\ud83c\udfae\nNINJYA KUN\nJALECO 1985   \n~ \ud835\ude99\ud835\ude9b\ud835\ude92\ud835\ude9f\ud835\ude8a\ud835\ude9d\ud835\ude8e \ud835\ude9b\ud835\ude8e\ud835\ude9f\ud835\ude92\ud835\ude8e\ud835\udea0~\n\ud835\ude99\ud835\ude9b\ud835\ude92\ud835\ude9f\ud835\ude8a\ud835\ude9d\ud835\ude8e \ud835\ude8e\ud835\ude9f\ud835\ude8a\ud835\ude95\ud835\ude9e\ud835\ude9d\ud835\ude92\ud835\ude98\ud835\ude97 \u2605\u2605\u2605\u2b50\ufe0e(3.5/5.0) \n\n#game #\u30ec\u30c8\u30ed\u30b2\u30fc\u30e0 https://t.co/EzZ8QdCdRn",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jan 05 00:51:00 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "\u30b2\u30fc\u30e0\uff06\u30ec\u30c8\u30ed&\u9aa8\u8463\u597d\u304d\u3002\nOur Store deal with the Games & Antique etc.\n\u25cfZEN MARKET: http://zenmarket.jp/en/s/koyo-jpn#",
+            "favourites_count": 371,
+            "follow_request_sent": null,
+            "followers_count": 60,
+            "following": null,
+            "friends_count": 87,
+            "geo_enabled": false,
+            "id": 1081352330300207104,
+            "id_str": "1081352330300207104",
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 1,
+            "location": null,
+            "name": "KOYO-JPN Retro",
+            "notifications": null,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1081352330300207104/1608703468",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1216036460320608257/ZvTCoq27_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1216036460320608257/ZvTCoq27_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "koyo_retro",
+            "statuses_count": 474,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://auctions.yahoo.co.jp/seller/iokqb03058",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @koyo_retro: \ud83c\udfae\ud835\ude83\ud835\ude98\ud835\ude8d\ud835\ude8a\ud835\udea2\u2019\ud835\ude9c \ud835\ude76\ud835\ude8a\ud835\ude96\ud835\ude8e\ud83c\udfae\nNINJYA KUN\nJALECO 1985   \n~ \ud835\ude99\ud835\ude9b\ud835\ude92\ud835\ude9f\ud835\ude8a\ud835\ude9d\ud835\ude8e \ud835\ude9b\ud835\ude8e\ud835\ude9f\ud835\ude92\ud835\ude8e\ud835\udea0~\n\ud835\ude99\ud835\ude9b\ud835\ude92\ud835\ude9f\ud835\ude8a\ud835\ude9d\ud835\ude8e \ud835\ude8e\ud835\ude9f\ud835\ude8a\ud835\ude95\ud835\ude9e\ud835\ude9d\ud835\ude92\ud835\ude98\ud835\ude97 \u2605\u2605\u2605\u2b50\ufe0e(3.5/5.0) \n\n#game #\u30ec\u30c8\u30ed\u30b2\u30fc\u30e0 https://t.co/Ez\u2026",
+    "timestamp_ms": "1610734217590",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Aug 17 21:25:03 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Gamer de la vieja escuela al que le gusta escribir noticias, an\u00e1lisis y art\u00edculos sobre videojuegos. Pod\u00e9is leer mis desvar\u00edos en http://FanFan.es y @Fanfanweb.",
+        "favourites_count": 57491,
+        "follow_request_sent": null,
+        "followers_count": 1286,
+        "following": null,
+        "friends_count": 1242,
+        "geo_enabled": false,
+        "id": 898294625848479746,
+        "id_str": "898294625848479746",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7,
+        "location": "Benalm\u00e1dena, Espa\u00f1a",
+        "name": "Quique Guti\u00e9rrez",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/898294625848479746/1605165380",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1345126809801797635/Ven7hDbF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345126809801797635/Ven7hDbF_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "QuiqueJGP",
+        "statuses_count": 6258,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://fanfan.es/secci\u00f3n/los-mejores-videojuegos/",
+        "utc_offset": null,
+        "verified": false
+    }
+}
+

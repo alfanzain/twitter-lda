@@ -4,15 +4,17 @@ import tweepy
 from time import sleep
 
 # tracks = ['-#porn', 'esport', 'Dota 2', 'DPC', 'Dota Pro Circuit', '#DPC', '#Dota2']
-tracks = ['-#porn', 'esport', 'E-sport']
+# tracks = ['-#porn', 'esport', 'e-sport']
 # tracks = ['-#porn', 'game', 'esport', 'Dota 2', 'DPC', 'Dota Pro Circuit', '#DPC', '#Dota2']
 # tracks = ['#game', '-#porn']
 # tracks = ['#game', '#StardewValley', '#Stardew', 'game', 'StardewValley']
+tracks = ['#game', '-#porn', '#lolwr', '#LeagueofLegendsWildRift']
 
 
 class StreamListener(tweepy.StreamListener):
 
     def __init__(self):
+
         super(StreamListener, self).__init__()
         self.count = 0
 
@@ -22,47 +24,60 @@ class StreamListener(tweepy.StreamListener):
         tweet.tracks = tracks
         create = tweet.create(status)
 
+        # Count inserted tweet and store to variable
         if create is True:
-            # Count inserted tweet and store to variable
             self.count += 1
 
     def update(self, status):
 
         tweet = Tweet()
         tweet.tracks = tracks
+
         return tweet.update(status)
 
     # When API get a status while streaming
     def on_status(self, status):
 
+        # Just deal with English language tweets
         if status.lang == 'en':
+
             # Insert new tweet IF has 'retweeted_status'
             if hasattr(status, 'retweeted_status'):
-                print("{} is retweeting {}.".format(status.id_str, status.retweeted_status.id_str))
+
+                # Send message to console
+                print("[{}] is retweeting [{}].".format(status.id_str, status.retweeted_status.id_str))
 
                 tweet = Tweet()
                 tweet.tracks = tracks
 
                 # Check if retweeted_status already exist
+                # TODO : move to model
                 if tweet.is_tweet_exist(status.retweeted_status.id_str) != 0:
-                    print("{} found!".format(status.retweeted_status.id_str))
+                    print("[{}] found!".format(status.retweeted_status.id_str))
                     self.update(status.retweeted_status)
                 else:
-                    print("{} not found.".format(status.retweeted_status.id_str))
+                    print("[{}] not found.".format(status.retweeted_status.id_str))
                     self.create(status.retweeted_status)
 
             self.create(status)
 
-            print('Total {} tweet(s) inserted.\n'.format(self.count))
+            # Send message to console
+            print('Total [{}] tweet(s) inserted.\n'.format(self.count))
+
         else:
-            print('Not an English tweet. Skipped.\n') # TODO : need count of skipped tweet? maybe?
+
+            # Send message to console
+            print('Not an English tweet. Skipped.\n')
 
         # sleep(2)
 
     def on_error(self, status_code):
-        # print status_code if it is 420
+
+        # Print status_code if it is 420
         if status_code == 420:
+
             print(status_code)
+
             return False
 
 

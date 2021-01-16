@@ -11,7 +11,7 @@ class Tweet(object):
 
     def __init__(self):
 
-        # Connecting to database
+        # Connect to database
         self.db = Database().connect()
         self.cursor = self.db.cursor()
 
@@ -20,10 +20,10 @@ class Tweet(object):
         self.cursor.execute('SET NAMES utf8mb4')
         self.cursor.execute("SET CHARACTER SET utf8mb4")
 
-    # Inserting tweet to database
+    # Insert tweet to database
     def create(self, status):
 
-        # SQL Insert query (INSERT INTO tweets)
+        # SQL query for new tweet
         sql = "INSERT INTO " \
               "tweets(" \
               "id_str, " \
@@ -43,8 +43,10 @@ class Tweet(object):
               "created_at," \
               "tracks)" \
               "VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
+
         try:
-            # SQL Insert query (VALUES ())
+
+            # Value of the query
             val = (
                 status.id_str,
                 status.user.id_str,
@@ -68,88 +70,120 @@ class Tweet(object):
                 str(self.tracks)
             )
 
-            # Executing query then commit to database
+            # Send message to console
+            print("Inserting [{}].".format(status.id_str))
+
+            # Execute query then commit to database
             self.cursor.execute(sql, val)
             self.db.commit()
 
-            # [4 Mar 19] - Deactivated
-            # # Then, open tweets.txt to store 'inserted tweet'
-            # with open(EXPERIMENT_PATH + 'e4/tweets.txt', 'a') as out:
-            #     # With json format
-            #         out.write(json.dumps(status._json, sort_keys=True, indent=4))
-            #         out.write(',\n')
+            # Send message to console
+            print("[{}] inserted.".format(status.id_str))
 
-            print("{} inserted.".format(status.id_str))
             return True
-        except Exception as e:
-            print('Exception:')
 
+        except Exception as e:
+
+            # Rollback last committed query
+            self.db.rollback()
+
+            # Send message to console
+            print("Error: unable to insert data")
+            print('Exception:' + e)
+
+            # Log error and tweet json
             now = datetime.now()
             txt_file_name = now.strftime("%H_%M_%S") + ".txt"
 
             Path(EXPERIMENT_PATH + EXPERIMENT_FOLDER).mkdir(parents=True, exist_ok=True)
-            Path(txt_file_name).touch(exist_ok=True)
 
             with open(EXPERIMENT_PATH + EXPERIMENT_FOLDER + txt_file_name, 'w+') as out:
                 out.write(str(e))
                 out.write(',\n')
                 out.write(json.dumps(status._json, sort_keys=True, indent=4))
                 out.write('\n\n')
-            print(e)
-            self.db.rollback()
+
             return False
 
     # Update tweet to database
     def update(self, status):
+
         tracks = None
 
+        # SQL query to find existing tweet non-null tracks value
         sql = "SELECT tracks FROM tweets WHERE id_str = '%s' AND tracks IS NOT NULL" % status.id_str
 
         try:
+
+            # Execute query then get the first row
             self.cursor.execute(sql)
             row = self.cursor.fetchone()
 
+            # If the tracks value is not current streamer tracks value,
+            #   then save the concatenation of the last tracks and the current tracks
+            # Otherwise,
+            #   save the current tracks
             if row is not None and row[0] != str(self.tracks):
-                # print("Current tracks : {}".format(self.tracks))
-                # print("Status tracks  : {}".format(row[0]))
-
                 tracks = str(self.tracks) + "," + str(row[0])
             else:
                 tracks = str(self.tracks)
 
         except Exception as e:
-            print(str(e))
+
+            # Send message to console
+            print("Error: unable to find tracks data")
+            print('Exception:' + e)
+
             # Should returns 0, but exception makes me doubt
             return False
 
         try:
-            # TODO add favorite_count
-            # TODO add tracks
+
+            # SQL query for update tweet
             sql = "UPDATE tweets " \
                   "SET " \
                   "retweet_count = %s, " \
                   "tracks = %s " \
                   "WHERE id_str = %s"
 
-            print("Updating {}.".format(status.id_str))
+            # Send message to console
+            print("Updating [{}].".format(status.id_str))
+
+            # Execute query then commit to database
             self.cursor.execute(sql, (status.retweet_count, tracks, status.id_str))
-            print("{} updated.".format(status.id_str))
             self.db.commit()
 
+            # Send message to console
+            print("[{}] updated.".format(status.id_str))
+
         except Exception as e:
+
+            # Rollback last committed query
             self.db.rollback()
+
+            # Send message to console
             print("Error: unable to update data")
             print('Exception:' + e)
 
     # Check if tweet already exists by id_str
     def is_tweet_exist(self, id_str):
 
+        # SQL query for check is tweet exists
         sql = "SELECT id_str FROM tweets WHERE id_str = '%s'" % id_str
 
         try:
+
+            # Execute query
             self.cursor.execute(sql)
+
+            # Return row count
             return self.cursor.rowcount
+
         except Exception as e:
-            print(str(e))
+
+            # Send message to console
+            print("Error: unable to check existing data")
+            print('Exception:' + e)
+
             # Should returns 0, but exception makes me doubt
             return False

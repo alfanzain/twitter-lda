@@ -1,0 +1,343 @@
+(1054, "Unknown column 'id_str' in 'field list'"),
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 15 18:10:25 +0000 2021",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    65,
+                    70
+                ],
+                "text": "draw"
+            },
+            {
+                "indices": [
+                    71,
+                    78
+                ],
+                "text": "dibujo"
+            },
+            {
+                "indices": [
+                    79,
+                    86
+                ],
+                "text": "fanart"
+            },
+            {
+                "indices": [
+                    87,
+                    98
+                ],
+                "text": "silenthill"
+            },
+            {
+                "indices": [
+                    99,
+                    104
+                ],
+                "text": "game"
+            },
+            {
+                "indices": [
+                    105,
+                    116
+                ],
+                "text": "digitalart"
+            },
+            {
+                "indices": [
+                    117,
+                    128
+                ],
+                "text": "CLIPSTUDIO"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 1343599233677537282,
+                "id_str": "1343599233677537282",
+                "indices": [
+                    3,
+                    12
+                ],
+                "name": "LauchaF.e \u26a1COMMISIONS OPEN\u26a1",
+                "screen_name": "ELauchaf"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1350143316969578496,
+    "id_str": "1350143316969578496",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Fri Jan 15 17:02:34 +0000 2021",
+        "display_text_range": [
+            0,
+            114
+        ],
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        51,
+                        56
+                    ],
+                    "text": "draw"
+                },
+                {
+                    "indices": [
+                        57,
+                        64
+                    ],
+                    "text": "dibujo"
+                },
+                {
+                    "indices": [
+                        65,
+                        72
+                    ],
+                    "text": "fanart"
+                },
+                {
+                    "indices": [
+                        73,
+                        84
+                    ],
+                    "text": "silenthill"
+                },
+                {
+                    "indices": [
+                        85,
+                        90
+                    ],
+                    "text": "game"
+                },
+                {
+                    "indices": [
+                        91,
+                        102
+                    ],
+                    "text": "digitalart"
+                },
+                {
+                    "indices": [
+                        103,
+                        114
+                    ],
+                    "text": "CLIPSTUDIO"
+                }
+            ],
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/WuoggvSpn0",
+                    "expanded_url": "https://twitter.com/ELauchaf/status/1350126239525335042/photo/1",
+                    "id": 1350126236815790081,
+                    "id_str": "1350126236815790081",
+                    "indices": [
+                        115,
+                        138
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ErycqLtXEAEDucy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ErycqLtXEAEDucy.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 566,
+                            "resize": "fit",
+                            "w": 1080
+                        },
+                        "medium": {
+                            "h": 566,
+                            "resize": "fit",
+                            "w": 1080
+                        },
+                        "small": {
+                            "h": 356,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/WuoggvSpn0"
+                }
+            ],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/WuoggvSpn0",
+                    "expanded_url": "https://twitter.com/ELauchaf/status/1350126239525335042/photo/1",
+                    "id": 1350126236815790081,
+                    "id_str": "1350126236815790081",
+                    "indices": [
+                        115,
+                        138
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/ErycqLtXEAEDucy.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/ErycqLtXEAEDucy.jpg",
+                    "sizes": {
+                        "large": {
+                            "h": 566,
+                            "resize": "fit",
+                            "w": 1080
+                        },
+                        "medium": {
+                            "h": 566,
+                            "resize": "fit",
+                            "w": 1080
+                        },
+                        "small": {
+                            "h": 356,
+                            "resize": "fit",
+                            "w": 680
+                        },
+                        "thumb": {
+                            "h": 150,
+                            "resize": "crop",
+                            "w": 150
+                        }
+                    },
+                    "type": "photo",
+                    "url": "https://t.co/WuoggvSpn0"
+                }
+            ]
+        },
+        "favorite_count": 9,
+        "favorited": false,
+        "filter_level": "low",
+        "geo": null,
+        "id": 1350126239525335042,
+        "id_str": "1350126239525335042",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 4,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "text": "Another heather's fan art!\n\n\"What a nigthmare...\"\n\n#draw #dibujo #fanart #silenthill\n#game #digitalart #CLIPSTUDIO https://t.co/WuoggvSpn0",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Dec 28 16:46:46 +0000 2020",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "\ud83c\udde6\ud83c\uddf7 R\u00edo Grande, TdF.\n                                      \nDibujante e ilustrador. ESP/ENG.                   \nSupport me with a coffe \ud83d\ude0e\ud83d\udc4c",
+            "favourites_count": 288,
+            "follow_request_sent": null,
+            "followers_count": 57,
+            "following": null,
+            "friends_count": 125,
+            "geo_enabled": false,
+            "id": 1343599233677537282,
+            "id_str": "1343599233677537282",
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 1,
+            "location": null,
+            "name": "LauchaF.e \u26a1COMMISIONS OPEN\u26a1",
+            "notifications": null,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343599233677537282/1609174658",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1343599423268548609/r0PWodyZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1343599423268548609/r0PWodyZ_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "ELauchaf",
+            "statuses_count": 209,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://linktr.ee/lauchaf.e95",
+            "utc_offset": null,
+            "verified": false
+        }
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "RT @ELauchaf: Another heather's fan art!\n\n\"What a nigthmare...\"\n\n#draw #dibujo #fanart #silenthill\n#game #digitalart #CLIPSTUDIO https://t.\u2026",
+    "timestamp_ms": "1610734225872",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 12 22:11:26 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "20 A\u00f1os/Cada dia intento mejorar mis dibujos/Me gusta mucho la quimica y el pan relleno/Juego DnD principalmente clases magicas/Buscando el guiso perfecto/Arg",
+        "favourites_count": 1731,
+        "follow_request_sent": null,
+        "followers_count": 53,
+        "following": null,
+        "friends_count": 602,
+        "geo_enabled": false,
+        "id": 819668134802161664,
+        "id_str": "819668134802161664",
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": null,
+        "name": "Eliasemmas",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/819668134802161664/1543627366",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1349883637488099331/nW6Atr9Z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1349883637488099331/nW6Atr9Z_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "eliasemmas",
+        "statuses_count": 1436,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+    }
+}
+
