@@ -71,14 +71,14 @@ class Tweet(object):
             )
 
             # Send message to console
-            print("Inserting [{}].".format(status.id_str))
+            print("! -- Inserting [{}].".format(status.id_str))
 
             # Execute query then commit to database
             self.cursor.execute(sql, val)
             self.db.commit()
 
             # Send message to console
-            print("[{}] inserted.".format(status.id_str))
+            print("+ -- [{}] inserted.".format(status.id_str))
 
             return True
 
@@ -147,14 +147,14 @@ class Tweet(object):
                   "WHERE id_str = %s"
 
             # Send message to console
-            print("Updating [{}].".format(status.id_str))
+            print("! -- Updating [{}].".format(status.id_str))
 
             # Execute query then commit to database
             self.cursor.execute(sql, (status.retweet_count, tracks, status.id_str))
             self.db.commit()
 
             # Send message to console
-            print("[{}] updated.".format(status.id_str))
+            print("* -- [{}] updated.".format(status.id_str))
 
         except Exception as e:
 
@@ -166,7 +166,7 @@ class Tweet(object):
             print('Exception:' + e)
 
     # Check if tweet already exists by id_str
-    def is_tweet_exist(self, id_str):
+    def is_tweet_exists(self, id_str):
 
         # SQL query for check is tweet exists
         sql = "SELECT id_str FROM tweets WHERE id_str = '%s'" % id_str

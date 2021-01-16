@@ -41,28 +41,34 @@ class StreamListener(tweepy.StreamListener):
         # Just deal with English language tweets
         if status.lang == 'en':
 
-            # Insert new tweet IF has 'retweeted_status'
-            if hasattr(status, 'retweeted_status'):
+            tweet = Tweet()
+
+            # Continue if tweet doesnt exist (TODO : should update tweet)
+            if not tweet.is_tweet_exists(status.id_str):
 
                 # Send message to console
-                print("[{}] is retweeting [{}].".format(status.id_str, status.retweeted_status.id_str))
+                print("! -- [{}] not found.".format(status.id_str))
 
-                tweet = Tweet()
                 tweet.tracks = tracks
 
-                # Check if retweeted_status already exist
-                # TODO : move to model
-                if tweet.is_tweet_exist(status.retweeted_status.id_str) != 0:
-                    print("[{}] found!".format(status.retweeted_status.id_str))
-                    self.update(status.retweeted_status)
-                else:
-                    print("[{}] not found.".format(status.retweeted_status.id_str))
-                    self.create(status.retweeted_status)
+                # Is the tweet is retweeting?
+                if hasattr(status, 'retweeted_status'):
 
-            self.create(status)
+                    # Send message to console
+                    print("! -- [{}] is retweeting [{}].".format(status.id_str, status.retweeted_status.id_str))
+
+                    # Save to database if retweeted status doesnt exist
+                    if not tweet.is_tweet_exists(status.retweeted_status.id_str):
+                        print("! -- [{}] not found.".format(status.retweeted_status.id_str))
+                        self.create(status.retweeted_status)
+                    else:
+                        print("! -- [{}] exists.".format(status.retweeted_status.id_str))
+
+                # Save to database if tweet doesnt exist
+                self.create(status)
 
             # Send message to console
-            print('Total [{}] tweet(s) inserted.\n'.format(self.count))
+            print('Total {} tweet{} inserted.\n'.format(self.count, 's' if self.count > 1 else ''))
 
         else:
 
