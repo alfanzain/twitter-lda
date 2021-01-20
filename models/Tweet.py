@@ -108,10 +108,8 @@ class Tweet(object):
     # Update tweet to database
     def update(self, status):
 
-        tracks = None
-
         # SQL query to find existing tweet non-null tracks value
-        sql = "SELECT tracks FROM tweets WHERE id_str = '%s' AND tracks IS NOT NULL" % status.id_str
+        sql = "SELECT tracks FROM tweets WHERE id_str = '%s'" % status.id_str
 
         try:
 
@@ -119,14 +117,52 @@ class Tweet(object):
             self.cursor.execute(sql)
             row = self.cursor.fetchone()
 
-            # If the tracks value is not current streamer tracks value,
-            #   then save the concatenation of the last tracks and the current tracks
-            # Otherwise,
-            #   save the current tracks
-            if row is not None and row[0] != str(self.tracks):
-                tracks = str(self.tracks) + "," + str(row[0])
+            if row is not None:
+
+                # Row tracks
+                last_tracks = str(row[0])\
+                    .replace('[', '')\
+                    .replace(']', '')\
+                    .replace('\'', '')\
+                    .split(',')
+
+                last_tracks = [track.replace(',', '') for track in last_tracks]
+
+                # If not the same, merge current and last tracks
+                if self.tracks != last_tracks:
+
+                    # Merge current and last tracks
+                    new_tracks = str(list(set(self.tracks + last_tracks)))
+
             else:
-                tracks = str(self.tracks)
+
+                # Save current tracks as new tracks
+                last_tracks = '-'
+                new_tracks = str(self.tracks)
+
+            # Send message to console
+            # print("! -- Current tracks : {}".format(self.tracks))
+            # print("! -- Last tracks    : {}".format(last_tracks))
+            # print("! -- New tracks     : {}".format(new_tracks))
+
+            # Log error and tweet json
+            txt_file_name = "tracks.txt"
+
+            Path(EXPERIMENT_PATH + EXPERIMENT_FOLDER).mkdir(parents=True, exist_ok=True)
+
+            with open(EXPERIMENT_PATH + EXPERIMENT_FOLDER + txt_file_name, 'a') as out:
+                out.write(status.id_str)
+                out.write('\n')
+                out.write(str(self.tracks))
+                out.write('\n')
+                out.write(str(last_tracks))
+                out.write('\n')
+                out.write(new_tracks)
+                out.write('\n\n')
+
+            with open(EXPERIMENT_PATH + EXPERIMENT_FOLDER + "query.txt", 'a') as out:
+                out.write("DELETE FROM tweets WHERE id_str = '" + status.id_str + "';")
+                out.write('\n')
 
         except Exception as e:
 
@@ -150,8 +186,8 @@ class Tweet(object):
             print("! -- Updating [{}].".format(status.id_str))
 
             # Execute query then commit to database
-            self.cursor.execute(sql, (status.retweet_count, tracks, status.id_str))
-            self.db.commit()
+            # self.cursor.execute(sql, (status.retweet_count, new_tracks, status.id_str))
+            # self.db.commit()
 
             # Send message to console
             print("* -- [{}] updated.".format(status.id_str))

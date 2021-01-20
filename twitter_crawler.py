@@ -1,14 +1,19 @@
-from configs.const import *
+# from configs.const import *
 from models.Tweet import *
 import tweepy
-from time import sleep
+# from time import sleep
 
-# tracks = ['-#porn', 'esport', 'Dota 2', 'DPC', 'Dota Pro Circuit', '#DPC', '#Dota2']
-# tracks = ['-#porn', 'esport', 'e-sport']
-# tracks = ['-#porn', 'game', 'esport', 'Dota 2', 'DPC', 'Dota Pro Circuit', '#DPC', '#Dota2']
-# tracks = ['#game', '-#porn']
-# tracks = ['#game', '#StardewValley', '#Stardew', 'game', 'StardewValley']
-tracks = ['#game', '-#porn', '#lolwr', '#LeagueofLegendsWildRift']
+# tracks = ['#game','-#porn']
+# tracks = ['-#porn','#fortnite']
+# tracks = ['-#porn','esport','Dota 2','DPC','Dota Pro Circuit','#DPC','#Dota2']
+# tracks = ['-#porn','esport', e-sport']
+# tracks = ['-#porn','game','esport','Dota 2','DPC','Dota Pro Circuit','#DPC','#Dota2']
+# tracks = ['#game','#StardewValley','#Stardew','game','StardewValley']
+# tracks = ['#game','-#porn','#lolwr','#LeagueofLegendsWildRift']
+# tracks = ['-#porn','#LeagueofLegendsWildRift'] # Belum
+tracks = ['-#porn','#Valorant']
+# tracks = ['#game','-#porn','League of Legends']
+# tracks = ['-#porn','League of Legends']
 
 
 class StreamListener(tweepy.StreamListener):
@@ -43,7 +48,7 @@ class StreamListener(tweepy.StreamListener):
 
             tweet = Tweet()
 
-            # Continue if tweet doesnt exist (TODO : should update tweet)
+            # Continue if tweet doesnt exist
             if not tweet.is_tweet_exists(status.id_str):
 
                 # Send message to console
@@ -63,9 +68,21 @@ class StreamListener(tweepy.StreamListener):
                         self.create(status.retweeted_status)
                     else:
                         print("! -- [{}] exists.".format(status.retweeted_status.id_str))
+                        self.update(status.retweeted_status)
 
                 # Save to database if tweet doesnt exist
                 self.create(status)
+
+            else:
+
+                # Update tweet in database
+                self.update(status)
+
+                # Is the tweet is retweeting?
+                if hasattr(status, 'retweeted_status'):
+
+                    # Update tweet in database
+                    self.update(status.retweeted_status)
 
             # Send message to console
             print('Total {} tweet{} inserted.\n'.format(self.count, 's' if self.count > 1 else ''))
@@ -74,8 +91,6 @@ class StreamListener(tweepy.StreamListener):
 
             # Send message to console
             print('Not an English tweet. Skipped.\n')
-
-        # sleep(2)
 
     def on_error(self, status_code):
 
