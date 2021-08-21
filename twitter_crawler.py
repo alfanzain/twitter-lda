@@ -1,20 +1,34 @@
-# from configs.const import *
-from models.Tweet import *
 import tweepy
-# from time import sleep
+from models.Tweet import *
 
-# tracks = ['#game','-#porn']
-# tracks = ['-#porn','#fortnite']
-# tracks = ['-#porn','esport','Dota 2','DPC','Dota Pro Circuit','#DPC','#Dota2']
-# tracks = ['-#porn','esport', e-sport']
-# tracks = ['-#porn','game','esport','Dota 2','DPC','Dota Pro Circuit','#DPC','#Dota2']
-# tracks = ['#game','#StardewValley','#Stardew','game','StardewValley']
-# tracks = ['#game','-#porn','#lolwr','#LeagueofLegendsWildRift']
-# tracks = ['-#porn','#LeagueofLegendsWildRift'] # Belum
-tracks = ['-#porn','#Valorant']
-# tracks = ['#game','-#porn','League of Legends']
-# tracks = ['-#porn','League of Legends']
-
+# Keywords
+tracks = ['-#porn']
+tracks.extend(['Cyberpunk2077', '#Cyberpunk2077', 'Cyberpunk 2077'])
+tracks.extend(['GenshinImpact', '#GenshinImpact', 'Genshin Impact'])
+tracks.extend(['Minecraft'])
+tracks.extend(['@redditdota2'])
+tracks.extend(['#ESLOne'])
+# tracks.extend(['TI'])
+tracks.extend(['#Animajor'])
+tracks.extend(['Weplay'])
+tracks.extend(['Animajor'])
+tracks.extend(['#fortnite'])
+tracks.extend(['#Dota2'])
+tracks.extend(['#DPC'])
+tracks.extend(['Dota Pro Circuit'])
+tracks.extend(['DPC'])
+tracks.extend(['Dota 2'])
+# tracks.extend(['esport'])
+# tracks.extend(['e-sport'])
+tracks.extend(['StardewValley'])
+tracks.extend(['#Stardew'])
+tracks.extend(['#StardewValley'])
+# tracks.extend(['#LeagueofLegendsWildRift'])
+# tracks.extend(['#lolwr'])
+tracks.extend(['#Valorant'])
+# tracks.extend(['League of Legends'])
+# tracks.extend(['game'])
+# tracks.extend(['#game'])
 
 class StreamListener(tweepy.StreamListener):
 
@@ -40,13 +54,14 @@ class StreamListener(tweepy.StreamListener):
 
         return tweet.update(status)
 
-    # When API get a status while streaming
     def on_status(self, status):
 
         # Just deal with English language tweets
         if status.lang == 'en':
 
             tweet = Tweet()
+
+            print(status.text)
 
             # Continue if tweet doesnt exist
             if not tweet.is_tweet_exists(status.id_str):

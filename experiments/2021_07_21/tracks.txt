@@ -1,0 +1,10 @@
+1417494544858460164
+['Cyberpunk', '#Cyberpunk2077', 'Cyberpunk 2077', '@CyberpunkGame', '-#porn']
+['Cyberpunk', ' #Cyberpunk2077', ' Cyberpunk 2077', ' @CyberpunkGame', ' -#porn']
+[' #Cyberpunk2077', '@CyberpunkGame', 'Cyberpunk', '-#porn', ' Cyberpunk 2077', ' @CyberpunkGame', 'Cyberpunk 2077', '#Cyberpunk2077', ' -#porn']
+
+1417537813436788741
+['Cyberpunk', '#Cyberpunk2077', 'Cyberpunk 2077', '@CyberpunkGame', '-#porn']
+['Cyberpunk', ' #Cyberpunk2077', ' Cyberpunk 2077', ' @CyberpunkGame', ' -#porn']
+[' #Cyberpunk2077', '@CyberpunkGame', 'Cyberpunk', '-#porn', ' Cyberpunk 2077', ' @CyberpunkGame', 'Cyberpunk 2077', '#Cyberpunk2077', ' -#porn']
+
