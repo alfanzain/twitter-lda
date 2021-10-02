@@ -20,7 +20,7 @@ Please let me know if you know the steps with other approaches!
 
 This project is an undergraduate thesis project for bachelor degree on game technology major at Politeknik Elektronika Negeri Surabaya.
 
-Unfortunately, I'm not focusing on data science things. 
+Unfortunately, I'm not focusing on data science things, for now.
 
 I'm focusing on my full-stack developer role. 
 
